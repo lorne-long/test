@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<title>动画</title>
+		<!--<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>-->
+		<script src="https://cdn.bootcss.com/vue/2.3.4/vue.min.js"></script>
+	</head>
+
+	<body>
+		<div id="demo">
+			<ul>
+				<li v-for="(item,i) in data" @click='searchView(item,i,$event)'>
+					{{item.title}}{{view["x-"+item.id]}}
+					<transition name="fade">
+						<div class="view" v-show='view["x-"+item.id]'>
+							{{view[item.id]}}
+						</div>
+					</transition>
+				</li>
+			</ul>
+		</div>
+
+		<style type="text/css">
+			.view {
+				transition: all 2s;
+				overflow: hidden;
+				border: 1px solid red;
+			}
+			.fade-enter,
+			.fade-leave-to {
+				height: 0!important;
+			}
+		</style>
+		<script type="text/javascript">
+			new Vue({
+				el: '#demo',
+				data: {
+					show: true,
+					data: [],
+					view: {}
+				},
+				created() {
+					setTimeout(() => {
+						this.data = [{
+							id: "1",
+							title: "test1"
+						}, {
+							id: "2",
+							title: "test2"
+						}, {
+							id: "3",
+							title: "test3"
+						}]
+					}, 100)
+				},
+				methods: {
+					searchView(item, i, evt) {
+						if(this.view['x-'+item.id]) {
+							this.view['x-'+item.id]=!(this.view['x-'+item.id]);
+							console.log(this.view['x-'+item.id])
+							return;
+						}
+						setTimeout(() => {
+							this.$set(this.view, item.id, "内容") //this.view[item.id]="trueadfag";//写完内容
+							evt.target.children[0].style.height = "100px" //计算高度写进去
+//							this.view['x-' + item.id] = true;
+							this.$set(this.view,'x-'+item.id,true);
+						}, 100)
+					}
+				}
+			})
+		</script>
+	</body>
+
+</html>
