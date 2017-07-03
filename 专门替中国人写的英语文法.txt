@@ -1,0 +1,3323 @@
+专门替中国人写的英文基本文法   
+序：  我们二人都有过教初级英文的经验，我们发现我们中国人写英文句子时，会犯独特的错误，比方说，我们常将两个动词连在一起用，我们也会将动词用成名词，我们对过去式和现在式毫无观念。更加不要说现在完成式了。而天生讲英文的人是不可能犯这种错的。
+我们还发现一个有趣的现象，那就是很多文法中的基本规则，一般的文法书上反而没有提， 比方说，第三人称，单数，现在式，动词要加s，虽然这是个非常重要的规定，很少文法书上会提到这个规则，既使提到，也在很后面的地方。因为很多句子中都要碰到这种情形，又因为文法书上没有强调，很多人就永远犯这个错误。
+两个动词连在一起用，对我们中国人来说，是很正常的事，可是在英文里，这是犯大忌的。令我们大吃一惊的是，居然绝大多数的英文文法书里根本找不到这个规则。难怪大家一天到晚犯这种错误了。
+我们这本英文文法书，是专门为中国人写的。以下是这书的一些特征：
+我们一开始祇就强调一些英文文法的基本规定，这些规定都是我们中国人所不太习惯的。也就是说，我们一开始就告诉了读者，大家不要犯这种错误。
+我们马上就进入动词，理由很简单，这是我们中国人最弱的地方。如果我们拖到很晚才讨论动词的规则，极可能为时已晚。读者已有了一些很坏的习惯，无可救药矣。根据我们的经验，绝大多数我们的错误，都与动词有关。这也难怪，中文里面，那儿有什么动词的规则？
+我们一再叫大家做中翻英，毕竟我们是初学英文，也没有和外国人生活在一起的环境，不可能在脑子里一开始就用英文想。我们一定要先想中文，才再想英文，这是初学英文者所无法避免的。如果我们会翻译很多的中文句子，我们已经很厉害了。也会有成就感。
+我们强调改错，因为初学者一定犯错。
+这本书最适合高中一年级的同学念，国中生当然也可以念，只是会感到生字多了一点。老师不妨略过那些有生字的句子。只要基本观念学会，就可以了。我们已经尽量用了最简单的字。
+这本文法书是入门的文法书，读了这本书，再去读其它文法书，会比较好。单靠这本书，嫌太浅了一点。
+最后我们要劝告初学的读者，你们不妨多背句子，背到后来，你自然不会犯错。英文文法并没有太多逻辑可言，很多规则用惯了，习惯成自然。就大功告成矣。到那时侯，你一定会很奇怪，为什么别人会犯那些荒谬的错误了。
+如果你背了很多正确的句子，总有一天，你说英文的时候，动词该加s，你就会加s。该用过去式，就会用过去式。两个动词也不会连在一起用，疑问句也会用疑问句的语法。那是多么美好的一天。
+希望这一天早日到来！
+
+第一章　英文文法的最基本规则
+　　英文和我们中文最大的不同，是在动词，我们中文的动词很简单，没有所谓的第几人称，也没有复数和单数之分，更没有过去式或进行式，英文可不同了，凡是用动词的时候，必须注意很多很多的规则，一旦弄错了，常常是犯了大错。
+　　在这一章，我要将英文最基本的规则一一列下。这些规则都是我们中国人所常常不注意的。
+　　为了不要误导读者，凡本书内错误的句子前面都有〝＊〞的符号。
+规则（１）：两个动词是不能联在一起用的。
+　　在中文，我们常说“我是爱你的”，翻成英文，这就变成了
+＊ I am love you.
+　　滑稽的是，这句英文句子犯了大忌，因为〝am〞是动词，〝love〞也是动词，两个动词是不能联在一起用的。这句话的正确说法是：
+I love you. 或者  I am in love with you.
+　　我们中国人也会说〝我喜欢看电视〞，翻成英文，这变成
+＊ I love watch television.
+这个句子也犯了同样的错。
+　　以下几个句子都是错的，因为这些句子中都有两个动词连在一起的情形：
+I hate eat fish.
+I love play basketball.
+I love swim.
+如果你一定要讲“我爱游泳”，怎么办呢？请看以下的规则。
+规则（２）：如一定要同时用两个动词，后者的前面必须加“to”或者将后者加入“ing”。
+“我爱游泳”，因此有两种正确的译法：
+I love to swim.
+I love swimming.
+以下的句子都是正确的：
+I hate to eat fish.
+I hate eating fish.
+I love to play basketball.
+I love playing basketball
+I  keep  going  to  church.
+规则（３）：主词如果是第三人称，现在式及单数，动词必须加s.
+　　我们中国人最不容易记得的规则，恐怕就是这一条了，以下的句子都是错的。
+＊ He write very well.
+＊ Jack love playing the violin.
+＊ Mary swim every day.
+正确的句子是：
+He writes very well.
+Jack loves playing the violin.
+Mary swims every day.
+规则（４）：绝大多数的否定的句子，不能直接加“not”。
+　　我们中文对否定语气，规则极为简单，我们可以说“我不爱你”，但是我们不能说
+＊ I not love you.
+我们也不能说：
+＊ I not saw that movie.
+＊ I not like swimming.
+＊ He not likes playing violin.
+　　我们必须用一种助动词来完成否定的句子，以下才是正确的否定句子：
+I do not love you.
+I did not see that movie.
+He does not like playing violin.
+　　请注意，在以上的句子中，do和did都是助动词，do是现在式，did是过去式。
+　　关于现在式和过去式，究竟是怎么一回事，以后我们会解释清楚的。
+　　助动词不限于“do”和它的变型，can、will、would、shall、may、must等等都是助动词，因此，以下的英文句子又都是对的：
+He can not swim.
+They will not go to church tomorrow.
+Mary should not go to the party.
+I shall not see you.
+He may not go out tonight.
+He must not eat meat any more.
+规则（５）：在不定词“to”的后面，必须用原形动词
+　　英文中的动词，是会变化的，以have为例，第一人称和第三人就不同：
+I have a dog.
+He has a dog.
+如果是过去式，动词又要变化。have的过去式是had，不论第几人称，一概都要用had。
+　　几乎每一个英文动词的过去式都有变化，以下是几个例子：
+现在式
+过去式
+go
+went
+come
+came
+eat
+ate
+play
+played
+swim
+swam
+　　不论那一个动词，都有一个原形动词，一切都是从这个原形动词变出来的，像go、drink、have、walk、love、like等等都是原形动词。
+　　如果我们有必要要用不定词to，就必须用原形动词，例如to go、to drink、to have，都是正确的，＊to went；＊to drank；＊to loved等等都是错的。
+　　英文中有一个动词最为麻烦，那就是am、are、is、was、were等等，翻译成中文，这都是，而这些动词的来源都是be，所以我们说这些动词都是verb to be。
+　　以下的句子都用上了〝be〞
+I want to be a teacher.
+He wants to be a good father.
+They all love to be rich.
+No one likes to be poor.
+规则（６）：英文中有所谓的助动词。必须注意
+　　英文中有很多动词都是助词动，在规则（４）中，我们说在绝大多数的否定语句中，必须用助动词do或did。Do是原形动词，did 和does都是do的变形。 
+　　除了do是助动词以外，can、may、might、will、would、must也都是助动词。
+　　以上所提到的助动词，都有一个共同的特色，那就是这些助动词后的动词必须是原形动词，以下的句子都是正确的：
+He can swim.
+He does not swim.
+I do not speak English.
+You must walk to work every day.
+I did not work yesterday.
+You may leave now.
+I will go to Taipei tomorrow.
+以下的句子都是错的：
+＊ I did not went.
+＊ He does not goes to work.
+＊ You must walked to work.
+　　除了以上的助动词以外，还有一个非常特殊的助动词，那就是have，在这个助动词的后面，动词绝对不能用原形动词，以下是用这个助动词的例子：
+I have been to England.
+I have slept all day.
+I have studied English since I was a child.
+been、slept 和studied都是过去分词（past participle），以下的句子也都是现在完成式，我们后讨论完成式的时候，会将这些解释清楚的。
+规则（７）：英文问句要有助动词
+　　我们先看看以下的英文句子，这些都是错的：
+＊ How many books you wrote？
+＊ How many sons you have？
+正确的句子是：
+Why do you drink so much water？
+How many books did you write？
+How many sons do you have？
+　　绝大多数的英文问句子是一定要有助动词，以下全是正确的英文问句，你可以看出每一句的助动词吗？
+Do you love me？
+Did you go to school yesterday？
+How many books do you have？
+How much money does he have？
+Why don't you go back home？
+Do you like to swim？
+Can you play violin？
+Will you go home tomorrow？
+Would you give me a call？
+　　当然啦，一旦动词是verb to be，我们又不需要助动词了，以下都是正确的英文问句：
+Are you a teacher?
+Is he a student?
+Is Mr. Chang your father?
+Were your mother and father in England last year?
+
+规则（８）：特殊动词随主词的变化
+　　英文中，有些动词因主词不同而改变，verb to be是其中之一，因此，我们必须记得以下的规则：
+
+
+第一人称
+第二人称
+第三人称
+现在式
+单数
+I am
+You are
+（He，She，It）is
+
+复数
+We are
+You are
+They  are
+过去式
+单数
+I was
+You were
+（He，She，It）was
+
+复数
+We were
+You were
+They were
+Verb to have也有类似的变化：
+
+
+第一人称
+第二人称
+第三人称
+现在式
+单数
+I have
+You have
+（He，She，It）has
+
+复数
+We have
+You have
+They have
+过去式
+单数
+I had
+You had
+（He，She，It）had
+
+复数
+We had
+You had
+They had
+【练习一】
+以下的句子都有错，请将正确的句子写出来：
+1.＊ I am like my parent.
+2.＊ He is loves his teacher.
+3.＊ He keeps swim every day.
+4.＊ He wants drink a glass of water.
+5.＊ He likes play violin.
+6.＊ Jack do not love mathematics.
+7.＊ Mary hate singing.
+8.＊ My mother cook very good food.
+9.＊ He want me to see him tomorrow.
+10.＊ He not knows my name.
+11.＊ I not like you.
+12.＊ He not like swimming.
+13.＊ You not went home.
+14.＊ I not like swimming.
+15.＊ I wanted to went to my mother's home.
+16.＊ I do not like to swimming.
+17.＊ I did not ate dinner.
+18.＊ I will not went home.
+19.＊ H did not went home.
+20.＊ You may leaving now.
+21.＊ He can swimming.
+22.＊ He does not goes to work.
+
+第二章　现在式和现在进行式
+2§1 现在式
+　　英文中，现在式（present tense）好像是最容易的，其实现在式都是我们常常用错的时式。
+　　首先，我们不妨举一个例子来说明我们对现在式惯有的误解，假设我们要说〝我在吃午饭〞，这总该用现在式了吧。很多人将这句话翻成
+　　　　　　　　　　　　I eat lunch.
+　　这就错了，因为〝I  eat  lunch.〞的意思并不是〝我在吃午饭〞，而是〝我有吃午饭的习惯〞，意思是说，有人中午不吃午饭（可能是在减肥），我可是每天中午都会吃午饭的。
+　　〝我在吃午饭〞，应该要用现在进行式，这是我们以后会谈的。
+　　现在式不是指任何一个行为，而是一种状况。举例来说，以下几句话都应该用现在式：
+我是一个学生
+I am a student.
+他是一个老师
+He is a teacher.
+他每天游泳
+He swims every day.
+汤姆勤奋工作
+Tom works hard
+他早起
+He gets up early.
+玛莉喜欢看电影
+Mary loves watching movies.
+这里常常下雨
+It rains often here.
+我每天喝一杯牛奶
+I drink a glass of milk every day.
+我是中国人
+I am a Chinese.
+他会讲英文
+He speaks English.
+他有喝茶的习惯
+He drinks tea.
+我骑脚踏车上学
+I ride a bicycle to school.
+他搭乘公交车上班
+He rides a bus to go to work.
+我不喜欢你
+I do not like you.
+他爱他的太太
+He loves his wife.
+他守法
+He obeys the law.
+我不喜欢莎士比亚
+I do not like Shakespeare.
+他不抽烟
+He does not smoke.
+他喝酒
+He drinks.
+他唱歌唱得很好
+He sings well.
+他跳舞跳得很好
+He dances well.
+他不会游泳
+He can not swim.
+他不是一个好学生
+He is not a good student.
+他们都很懒
+They are all very lazy.
+　　凡是真理，自然界的现象，数学里的定理，都要用现在式：
+太阳从东方升起
+The sun rises in the east.
+地球是圆的
+The earth is round.
+月亮是地球的一个卫星
+The moon is a satellite of the earth.
+美国是一个大的国家
+America is a large country.
+在北极的夏天，太阳永不落下
+The sun never sets at the North Pole in summer.
+树叶吸收二氧化碳
+Tree leaves absorb CO2 .
+计算机的基本原理是布尔代数
+The basic principle of computers is Boolean algebra
+二点决定一线
+Two points define a line.
+三点决定一平面
+Three points define a plane.
+三基本颜色是红、黄、蓝
+Three of the basic colors are red, yellow   and blue.
+【练习二】
+将以下中文句子翻成英文，都用现在式。
+1.他是一个好学生。
+2.我的哥哥17岁。
+3.我弟弟每天游泳。
+4.他们都喜欢音乐。
+5.他们现在在日本。
+6.喜玛拉雅山是全世界最高的山。
+7.亚马孙河是全世界最长的。
+8.他的爸爸是位老师。
+9.我们都喜欢中国菜。
+10.他不喜欢冰淇淋。
+11.我爱你。
+12.每个人都怕蛇。
+13.每个人都喜欢狗。
+14.今天真冷。
+2§2 现在进行式
+　　假如我们正在做一件事，是不能用现在式的，而必须用现在进行式，现在进行式的形态是：
+            verb to be + present participle（现在分词）
+verb to be 大家都懂，什么叫做现在分词呢？现在分词就是
+　　　　　　动词＋ing
+以下是现在分词的例子
+动词
+现在分词
+work
+working
+go
+going
+read 
+reading
+run
+running
+play
+playing
+swim
+swimming
+sing
+singing
+write
+writing
+eat
+eating
+walk
+walking
+come
+coming
+love
+loving
+like
+liking
+watch
+watching
+smoke
+smoking
+
+　　如果我们说
+　　　　I am watching a movie.
+　　那是指我现在正在看电影，这和
+　　　　I watch movies.
+　　意义上截然不同的，I watch movies是说我有看电影的习惯。
+　　因此有些动词是没有现在进行式的，举例来说
+　　　　I am loving you.
+是不通的，因为严格说起来，love是一种状态，而不是一个动作。现在进行式，都是指动作，很少指状态的。
+　　以下是现在进行式的例子：
+　　　　I am calling my father.
+　　　　He is swimming now.
+　　　　He is playing basketball.
+　　　　They are all eating now.
+　　　　He is walking in the woods now.
+　　　　He is reading a detective novel.
+　　　　Mr. Brown is driving to work.
+　　　　Mrs. Brown is cooking.
+　　　　It is raining now.
+【练习三】
+将以下句子译成英文，都用现在进行式：
+1.他在看电影。
+2.我在游泳。
+3.她在和她妈妈打电话。
+4.他的哥哥在散步。
+5.我现在正在吃饭。
+6.我们在唱歌。
+7.他在弹钢琴。
+8.他在看一本小说。
+9.我在写一封信。
+10.他在跑步。
+【练习四】
+将下列句子译成英文，有的用现在式，有的用现在进行式：
+1.我爱你。
+2.我正在吃饭。
+3.他不是一个学生。
+4.我是一个老师。
+5.他正在唱歌。
+6.他在游泳。
+7.他喜欢游泳。
+8.他会唱歌。
+9.他正在唱歌。
+10.他的爸爸是一个医生。
+11.他的爸爸在美国。
+12.我正在洗澡。
+13.他正在睡觉。
+14.你的姊姊在骑脚踏车。
+15.你的姊姊每天骑脚踏车上学。
+
+第三章　过去式和过去进行式
+3§1 过去式
+　　过去式是指过去所发生的事，举例来说，假如我昨天去看了一场电影，我就可以说
+       I went to see a movie yesterday.
+以下全部是正确的句子：
+       I saw your father last night.
+       I met your son last month.
+       I ate three apples this morning.
+       He went to church to pray last night.
+　　可是，我们必须非常小心，因为一不小心，我们就可能犯了大错，我们如果要向情侣表示爱情，当然说
+　　　　　　I love you.
+　　如果我们说
+            I loved you.
+事情就可能闹大了，因为这表示我过去曾经爱过你，可是现在已经不爱了。〝I  loved  you〞等于是〝I  loved  you before.  But  I  do  not  love  you  now.〞
+　　假如我们看过一个小男孩然后我们说
+            He was a good boy.
+那就是说他现在已不是一个好男孩了，变成了一个不乖的孩子，或者他已经死了。
+　　英文里的过去式常常是侦探用来破案的线索。有一次，有一个母亲，向警察报案，说她的女儿失踪了，她在记者面前，声泪俱下地说
+　　　　　She was such a nice girl.
+　　警察马上觉得这位母亲有问题，因为她不该用过去式的，用了过去式，表示女儿已经死了，可是母亲不是说她失踪了吗？为什么她用过去式，极有可能因为她知道她女儿已经死了，才脱口而出，用了过去式。警察因此怀疑母亲本人就是凶手，事实也果真如此：这位母亲打自己的女儿，出手太重，将女儿打死了，谎报女儿失踪，她用了过去式，使警察知道她有问题。整个案子的侦破，就在于过去式。
+　　我们因此不能轻易用过去式，但我们也千万要注意，该用过去式的时候，一定要用过去式，以下句子都是错的：
+　　　　＊I go to school yesterday.
+　　　　＊I see a movie last night.
+　　　　＊My mother comes to see me last month.
+　　　　＊I eat three apples this morning.
+　　　　＊He is happy yesterday.
+以上句子的正确写法是：
+　　　　I went to school yesterday.
+　　　　I saw a movie last night.
+　　　　My mother came to see me last month.
+　　　　I ate three apples this morning.
+　　　　He was happy yesterday.
+【练习五】
+将以下中文句子翻成英文，全部用过去式：
+1.我昨天参加了一个舞会。
+2.他的哥哥昨天打电话给我。
+3.我去年到美国去。
+4.昨夜我遇到你的姊姊。
+5.我写了一封信给你。
+6.我今晨吃了一个蛋。
+7.他昨夜整夜跳舞。
+8.我们昨天跑了五千公尺。
+9.他昨夜非常疲倦。
+10.他昨夜去台北探访他的爸爸。
+【练习六】
+将下列的句子译成英文句子，有的用现在式，有的用过去式：
+1.他是一个强壮的男孩。
+2.他昨天生病了。
+3.他每天吃一个苹果。
+4.他昨天吃了三个苹果。
+5.我喜欢看电影。
+6.我是个快乐的人。
+7.昨天我看了两场电影。
+8.他昨天寄了一封信给你。
+9.他常常抽烟。
+10.我每天读圣经。
+11.他昨天没有念圣经。
+12.他昨天没有游泳。
+【练习七】
+将以下句子译成英文，用现在式，现在进行式或过去式：
+1.他在打篮球。
+2.他喜欢打篮球。
+3.他昨天打篮球。
+4.他每天骑脚踏车上学。
+5.他昨天骑脚踏车到乡下去。
+6.我喜欢唱歌。
+7.他正在唱歌。
+8.你的爸爸昨天来看我。
+9.他的哥哥每天步行二公里。
+10.他的弟弟是个好孩子。
+11.他去年非常虚弱。
+12.他正在打电话。
+13.他每天都努力工作（work hard）。
+14.你的弟弟喜欢游泳。
+15.他过去是个好学生。
+
+3§2 过去进行式
+　　过去进行式和现在进行式有点类似，只是verb to be要用过去式的。可是有一点不同，过去进行式，很少单独用的，而常和另一句子一齐用。举例来说以下的中文句子：
+　　我昨天去看你的时候，你正在打篮球，如译成中文，就是
+　　　　You were playing basketball when I went to see you yesterday.
+　　以下是典型的过去进行式用法
+　　　　I was taking a bath when you called.
+　　　　I was watching TV when you came to see me.
+　　　　They were dancing when the teacher came in.
+　　　　They were singing in the station when the train arrived.
+　　　　Mr. Brown was cleaning his house when his son came home.
+　　总而言之，过去进行式通常牵涉到几件事，这两件事同时发生，其中一件事用过去式，另一件事用过去进行式
+【练习八】
+将以下句子译成英文，其中一部份使用过去进行式：
+1.他昨天到学校去的时候，天在下雨。
+2.当火车停下的时候，他在看报（read newspaper）。
+3.当火车进站的时候，他们在唱歌。
+4.我昨天去他家的时候，他在和他爸爸打电话。
+5.昨天晚上八点钟，我在家看电视。
+6.当我爸爸昨晚打电话给我的时候，我正在刷牙（brush my teeth）。
+7.当我昨晚打电话给他时，他在游泳。
+8.当这猫走进来的时候，那只狗在睡觉。
+9.当他弟弟回家的时候，他在拉小提琴。
+10.当我爸爸回家的时候，我妈妈在烧饭。
+【练习九】
+填充
+1. I         （be） a Christian.
+2. He         （be） a Catholic when he was a child.
+3. I         （go） to see my mother yesterday.
+4. I         （like） to lay piano.
+5. He         （eat） now.
+6. It         （rain） now.
+7. He         （walk） to school every day.
+8. He         （walk） now.
+9. He         （be） a good boy.
+10. He         （swim） when I called him.
+11. He         （go） to see his mother yesterday.
+12. I         （take） a bath when my mother called me.
+13. I         （like） to swim.
+14. I         （like） to swim when I was young. Now, I don't because I am too old.
+15. It         （rain） now.
+16. It         （rain） when I drove to work yesterday.
+17. It         （rain） last night.
+18. It         （rain）very  often  here.
+19. He         （read） a book when I went to see him yesterday.
+20. I         （be） a student when I was young. Now I am a teacher.
+【练习十】
+改正以下句子的错误
+＊They are driving when I went to see them yesterday.
+＊It rained here very often in Taipei.
+＊He gives his book to his brother last month.
+＊He go to work every morning.
+＊He likes to told stories.
+＊I like to went to church.
+＊The sun sets now.
+＊They are play the piano now.
+＊I am love you.
+＊He were a good student before.
+＊He goes to church last Sunday.
+＊It rains last night.
+＊I am playing when you called.
+＊It is raining when I drove to work last night.
+＊He do not know me.
+＊I were swimming when my mother came.
+＊They is singing now.
+＊He do not like to swim.
+＊He always wear a black coat. 
+＊He is watch TV now.
+
+第四章　完成式（Perfect Tense）
+4§1 现在完成式（Present Perfect Tense）
+　　完成式的形式是 verb to have + past participle，每一个动词，都有过去式和过去分词，以下就是一些例子：
+原式
+过去式
+过去分词（past  participle）
+go
+went
+gone
+come
+came
+come
+see
+saw
+seen
+do
+did
+done
+watch
+watched
+watched
+get
+got
+gotten（或got）
+have
+had
+had
+use
+used
+used
+buy
+bought
+bought
+listen
+listened
+listened
+draw
+drew
+drawn
+paint
+painted
+painted
+leave
+left
+left
+arrive
+arrived
+arrived
+dance
+danced
+danced
+kill
+killed
+killed
+write
+wrote
+written
+run
+ran
+run
+swim
+swam
+swum
+snow
+snowed
+snowed
+eat
+ate
+eaten
+love
+loved
+loved
+fly
+flew
+flown
+spread
+spread
+spread
+hit
+hit
+hit
+drink
+drank
+drunk
+take
+took
+taken
+grow
+grew
+grown
+sell
+sold
+sold
+ride
+rode
+ridden
+steal
+stole
+stolen
+break
+broke
+broken
+walk
+walked
+walked
+read
+read
+read
+sing
+sang
+sung
+work
+worked
+worked
+以下的句子都是用了现在完成式：
+　　　　　I have read this book.
+　　　　　I have seen the movie.
+　　　　　I have lived here since 1973.
+　　　　　I have studied English for a long time.
+　　　　　He has washed his hands.
+　　　　　He has left.
+　　　　　He has already completed the report.
+　　　　　The storm has arrived.
+　　　　　I have taken the job.
+　　　　　I have written the letters.
+　　　　　I have not seen him since 1975.
+　　　　　I have never seen this man before.
+什么情况之下要用现在完成式呢？ 
+首先假设我们有一件事，发生在过去，而一直延续到现在，就要用现在完成式，这种句子后面常有since或for。以下是这种情形的例子：
+（1）自从1963年，我一直在念英文。
+I have studied English since 1963.
+（2）自从1975年以后，我就住在这里。
+I have lived here since 1975.
+（3）自从我是一个小孩子，我就喜欢摇滚乐。
+I have loved rock and roll music since I was a child.
+（4）自从去年，我就从来没有见过他。
+Since last year, I have never seen him.
+（5）自从1950年以后，他就一直在此工作。
+He has worked here since 1950.
+（6）我认识他已经很久了。
+I have known him for a long time.
+（7）他练习网球已经四年了。
+He has already practiced tennis for （the past） four years.
+（8）我穿这件夹克很久了。
+I have worn this jacket for a very long time.
+（9）我开这辆汽车很久了。
+I have driven this car for a long time.
+（10）好久没有下雨了。
+It has not rained for a long time.
+2.使用现在完成式的另一情况是强调已经完成的事，比方说，你说〝我已经写了那封信〞，就可以用现在完成式，或者，你说〝他已经完成了工作〞。以下是这类的例子：
+（1）我已经写了这封信。
+ I have already written the letter.
+（2）他已经完成了工作。
+He has already completed the work.
+（3）我已经测试了这个程序。
+I have already tested the program.
+（4）我已经收到了你的信。
+I have already received your letter.
+（5）他已搬到了一个较大的房子。
+He has already moved to a bigger house.
+（6）虽然他很年轻，但他已写了三本小说。
+lthough he is young, he has already written three novels.
+（7）我打了二次电话给他，他都没有回答。
+I called him twice, he has never answered.
+3.现在完成式用来表示一种经验，举例来说，〝我曾经到过美国〞、〝我曾见过李总统〞、〝我有生以来没有跳过舞〞，这些都应该用现在完成式，例如：
+我曾经到过美国。
+I have been to America.
+我曾见过李总统。
+I have seen President Lee.
+我有生以来没有跳过舞。
+I have never danced in my life.
+我看过〝双城记〞。
+I have read The Tale of Two Cities.
+他曾吃过这种冰淇淋。
+He has tasted this kind of ice cream.
+我未曾见过雪。
+I have never seen snow.
+你曾见过雪吗？
+Have you ever seen snow?
+你登过玉山吗？
+Have you ever climbed Jade Mountain？
+4.现在完成式可以用来表示一件过去常发生的事：
+今年我国已有二次台风。
+We have already had two typhoons so far this year.
+他今年已发表了三篇论文。
+He has already published three papers this year.
+过去一年，我看了三次〝铁达尼号〞。
+In the past year, I have seen The Titanic three times.
+　　对读者而言，最重要的是〝现在完成式〞和〝过去式〞不同究竟在那里？最重要的不同在于，一旦在句子中讲一件过去发生的事，而且指定特定的时间，就一定要用〝过去式〞，而不能用〝现在完成式〞。比方说，〝我曾经看过「铁达尼号」〞，可以用现在完成式，因为这句话没有指明任何特定的时间，假如说，〝我昨天晚上去看「铁达尼号」〞，就一定用过去式，读者不妨看看以下的比较：
+（a）I went to America last year.
+I have been to America.
+（b）I saw The Titanic last year.
+I have seen The Titanic twice.
+（c）I finished my homework late last night.
+I have finally finished my homework.
+（d）I studied English when I was a small child.
+I have studied English since I was a child.
+（e）I went to church yesterday.
+I have never been to church.
+　　以下的句子是错的，请特别注意：
+＊（1）I have seen the movie last year.
+＊（2）I have never been to America last year.
+＊（3）He has never finished his work last night.
+　　现在完成式常和since、for、already、never、ever等字一起使用，以下都是这类的例子：
+（1）I have already had dinner.
+（2）Since this summer began, we have already had two storms.
+（3）It has not rained for a long time.
+（4）I have never talked to this man before.
+（5）I have never met your father.
+（6）Have you ever been to America?
+（7）He has already won three awards.
+（8）I have stayed here since June.
+　　Never 和 ever 也常是我们弄不清楚如何使用的字，一般说来， never 有否定的意思，ever则只有在问句中才会出现。
+【练习十一】
+将以下句子译成英文，全部用现在完成式：
+1.自从1980年，我就每天早上游泳。
+2.我已收到了你的信。
+3.我从未去过美国。
+4.从他是一个小孩开始，他就是一个基督徒（Christian）。
+5.我见过你的祖父。
+6.你的弟弟一直住在这里。
+7.他学钢琴已经很久了。
+8.我已写了三封信给他，他都没有回。
+9.过去三年我都在开这部车。
+10.自从1975年以来，他一直是一位老师。
+11.他教英文很久了。
+12.我曾经看过乱世佳人（Gone with the Wind）。
+13.我已吃过饭了。
+14.今年我去过海滩三次。
+15.我终其一生都爱你的。
+【练习十二】
+将以下句子译成英文，有的用过去式，有的用现在完成式
+1.昨天我去看〝乱世佳人〞（Gone with the Wind）。
+2.我从未看过〝乱世佳人〞。
+3.去年，我住在美国。
+4.自从1985年，我就一直住在美国。
+5.他从未去过英国。
+6.他已经完成了报告。
+7.我昨天晚上完成了报告。
+8.昨夜，我见到了你的父亲。
+9.我已经见过你的父亲好几次了。
+10.我终生都住在台中。
+【练习十三】
+填充
+1. I          （become） a Christian when I was a child.
+2. I          （be） a Christian all my life.
+3. He          （live） here since 1939.
+4. Stop eating now. You          （eat） too much.
+5. It          （rain） last night.
+6. John is a writer. He          （written） thirteen novels.
+7. Last night, I         （see） your father for the first time in my life.
+8. I          （talk） to my father last night.
+9. Since 1961, I          （be） a teacher. Before that, I          （be） a student.
+10. I          （read） many novels written by Charles Dickens.
+4§2现在完成进行式（Present Perfect Progressive Tense）
+　　在上一节，我们知道，如果有一个行动，从过去发生后，就一直延续到现在，我们可以用现在完成式。举例来说，以下的例子都应该用现在完成式：
+自从1974年，我就在学校学英文。
+Since 1974, I have studied English at school.
+自从我大学毕业以后，我就在这里工作。
+Since I graduated from college, I hav worked here.
+　　以第一句话为例，假如我们要强调我一直在练习游泳，而且没有间断，我们可以用现在完成进行式（present perfect progressive tense）。所谓现在完成进行式，形式如下：
+		verb to have + been + present participle
+　　verb to have  是为了完成式，been 和 present participle 都是为了进行式。
+　　以下是现在完成进行式的例子：
+I have been studying English since 1974.
+I have been working here since I graduated from college.
+I have been living here since I was a child.
+He has been acting like a fool lately.（他最近一直在做傻事）
+They have been dancing since seven o'clock.
+It has been snowing since yesterday.
+I have been taking music lessons since last year.
+He has been drinking heavily since last year.（他去年起，就一直在酗酒）
+【练习十四】
+将以下的句子译成英文，全部用现在完成进行式：
+1. 自从我们是小孩子起，我们就一直努力工作。
+2. 从去年起，他就在念英文。
+3. 从昨天起，就一直在下雨。
+4. 从五时起，他就在做功课（do homework）。
+5. 从三岁起，我就一直住在台中。
+4§3 过去完成进行式（Past Perfect Progressive Tense）
+　　过去完成式的形式如下：
+　　　　　had + past participle
+　　过去完成式是不能单独用的。我们用的时候，必须有另一个事件。也就是说，假如我们有两件事 A 和 B，两件事都发生在过去，但 A 发生在 B 以前，A 应该用过去完成式，B 则用过去式。以下是几个例子：
+他到台湾以前，曾学过中文。
+He had studied Chinese before he came to Taiwan.
+他念大学以前，曾前工作过。
+He had worked before he decided to go to college.
+我写这篇有关爱尔兰的小说以前，曾去过爱尔兰。
+I had been to Ireland before I wrote this book about Ireland's people.
+我在上大学以前，已经学过微积分。
+I had studied calculus before I got into college.
+周一以前，已经下过雪了。
+It had already snowed before Monday.
+　　如果我们要强调较早发生事件的连续性，我们可以用过去完成进行式。占去完成进行式和现在进行式惟一不同的地方是 verb to have 的地方一定要用had 。以下是一些过去完成进行式的例子：
+I had been watching TV before you called me.
+I had been working hard in a company for many years before I went to college.
+He had been studying before he went to class.
+He had been driving all day before he went to sleep.
+【练习十五】
+将以下中文句子译成英文，每一句都要用过去式和过去完成式：
+1.我十四岁以前，就曾见过你的母亲。
+2.我1974年以前，曾去过美国。
+3.六年前，他曾念过圣经（the Bible）。
+4.我念大学以前，曾经是个工程师（engineer）。
+5.你来以前，我曾打电话给你。
+6.在我昨天晚上吃饭以前，曾和李先生见过面。
+7.在他辞职（resign）以前，他是个好校长（president）。
+8.在他去世（die），他是个好医生。
+9.在他到教堂以前，他一直在练习唱歌。
+10.在今天早上八时以前，天一直在下雨。
+【练习十六】
+将以下的中文句子译成英文，选适宜的时态。
+1.他昨天去看你的时候，你在唱歌。
+2.他从前是个好孩子。
+3.他们都喜欢打篮球。
+4.我们正在看电视。
+5.你在台湾住了很久了。
+6.我已经看完了这本书。
+7.他们一直都住在这里。
+8.我来以前，曾去过教堂。
+9.他喜欢看日出。
+10.他喜欢游泳。
+11.他自从六岁起，就一直在学钢琴（piano）。
+12.他过去是个强壮的孩子。
+13.在他生病以前，他曾是个非常健康（healthy）的人。
+14.当火车进站时，人们在跳舞。
+15.在战争爆发（break out）以前，他曾是个音乐家（musician）。
+16.我曾见过你。
+17.我去年见过你。
+18.我已经将信写好了。
+19.自从1974年以来，我就是一个军人（soldier）。
+20.我读了很多英文书。
+【练习十七】
+将正确的动词填入以下各句的空白：（有的地方可能有多种答案）
+1. He          (love) his country.
+2. He          (love) his country, but now he does not.
+3. I          (be) a teacher since 1975.
+4. I          (be) a teacher before I went to college.
+5. I          (read) Shakespeare ever since I was a little girl.
+6. When I went to see her yesterday, she          (watch) TV.
+7. I          (see) your father before I saw you.
+8. He          (read) many detective stories.
+9. He          (go) to church every Sunday.
+10. It          (be) a cold day yesterday.
+11. It          (rain) for the last two days.
+12. I          (eat) too much.  I am full now.
+13. You          (be) a nurse before the war broke out.
+14. I          (have) never          (see) you in my life.
+15. He          (be) a teacher since 1980.
+16. It          (be) good to eat vegetables every day.
+17. It          (be) so nice to meet you last night.
+18. She          (be) sucha nice girl before she died.
+19. Peter          (go) to America many times.
+20. He          (work) hard since last year. He          (hope) to succeed in the college entrance examination this time.
+
+第五章 未来式
+5§1 未来式的基本规则
+　　如果我们在句子中，有需要提到未来的事情，就可以使用未来式，举例来说，以下的句子都用未来式。
+I will go to America tomorrow.
+He will dance tonight.
+Peter will finish his work next month.
+　　如果不用〝will〞，我们可以用〝verb to be +going to+ verb〞，如果我们如此做，以上的三个句子就变成了以下的句子
+I am going to go to America tomorrow.
+He is going to dance tonight.
+Peter is going to finish his work next month.
+以下是一些未来式的例子：
+1. I will call you tonight.
+I am going to call you tonight.
+2. He will graduate next June.
+He is going to graduate next June.
+3. Mr. Lee will teach us English soon.
+Mr. Lee is going to teach us English soon.
+4. He will help you.
+He is going to help you.
+5. The war will break out soon.
+The war is going to break out soon.
+6. It will rain tonight.
+It is going to rain tonight.
+　　有一个规则必须注意，就是will是一个助动词，现在式第三人称单数的主词，仍不用在will后面加s。
+　　不仅如此，will后面的动词必须用成原式，如果用verb to be +going to+ verb这里面的verb也必须用原式。
+　　因为这里面的to式infinitive，infinitive里面永远要用原型动词。
+以下例子都是错的
+1.＊He wills go to school.
+2.＊He will goes to school.
+3.＊They will went to work tomorrow.
+4.＊Tom is going to saw me tonight.
+5.＊Peter is going to working next month.
+未来式常和别的句子用在一起，以下是典型的例子
+1. When you come tomorrow, I will already be in Taipei.
+2. After I graduate, I am going to be a good doctor in Africa.
+3. Before I leave tomorrow, I will finish my work.
+4. After the war is over, every one will be happy.
+5. I will go to a concert after my classes are over.
+6. I will eat lunch as soon as I have time.
+但千万不可写出以下错误的句子：
+＊When you will come tomorrow, I will already be in Taipei.
+＊After the war will be over, every one will be happy.
+＊I will eat lunch as soon as I will have time.
+【练习十八】
+将以下的中文句子翻成英文句子，用will或to be going to：
+1. 我明天要上教堂（go to church）。
+2. 他下周一要和我见面。
+3. 他明天要整理这个房间（clean this room）。
+4. 我明天吃晚饭后要去台北。
+5. 我明天晚上回家以后，就打电话给你。
+6. 我毕业以后会去念法律。
+7. 明天你走以后，我要看电视.。
+8. 明天我会去台南。
+9. 今天晚上我要写一封信给你。
+10. 今晚，我要等我的哥哥。
+【练习十九】
+填充：
+I          (be) in America next year, after I          (graduate).
+I          (explain) this to you tonight after I          (read) the report.
+I          (see) you tonight.
+As soon as you          (come) to see me, I          (give) you my book.
+When you          (arrive) in New York tomorrow, Tom          (be) in the airport to meet you.
+I          (go) to church after the rain stops.
+I          (watch) the new TV program after you          (leave).
+When you          (get) here tomorrow, everyone          (wait) for you.
+I          (get) a job as soon as I get out of college.
+He________ (have) dinner very late tomorrow.
+I________ (quit) my present job, after I________ (find) a better one.
+5§2 未来式的变形 
+未来式可以和进行式合起来用，以下是未来进行式的例子
+I will be watching TV tomorrow at eight.
+He will be eating a big dinner after he gets out of the hospital.
+I will be studying mathematics at home when you come.
+Two days later, I will be driving a new car.
+　　未来式可以和完成式合在一起用，而成为未来完成式，这种句子都是在于强调未来要完成的事。举例来说，"我明天六点以前，我会完成这工作了"，就可以用未来完成式：
+I will have finished this work by six o'clock tomorrow.
+以下是一些未来完成式的例子
+By the time he arrives at the station, the train will have left.
+We will have had three meetings before six o'clock tonight.
+He will have written six novels next summer.
+【练习二十】
+填充：（用未来进行式或未来完成式）
+I          (watch) the baseball game tomorrow night.
+He          (finish) the report when you arrive at his home.
+I          (wash) my car tonight when my mother comes.
+They          (play) their violins when the clck strikes twelve.
+He          (complete) writing this program before ten o'clock tonight.
+He          (be) the president for three years next May.
+I          (wash) my car when you come tonight.
+I          (read) this report before six o'clock tomorrow evening.
+Peter          (dance) in the streets if Mr. Robertson is elected president.
+I          (drive) four hundred miles tomorrow.
+【练习二十一】
+将以下中文句子译成英文
+1. 彼得生于1965年，他从小就喜欢音乐，自从1975年起，他就一直在练习小提琴。现在他是一个很好的小提琴家。
+2. 我的哥哥明天会来看我，他来的时候，我会在家里看电视。我喜欢看有关医院的节目。
+3. 在我小的时候我常常喜欢打篮球，现在我不打篮球了，因为我曾有一次车祸（car accident）。
+4. 我现在在打电话给我的母亲，我的母亲现在88岁，他在台北已经住了60年。
+5. 在我去美国以前，我曾经去过英国，当我在英国的时候，我碰见了一个美丽的女孩子，他后来成为我的太太。
+【练习二十二】
+填充
+I          (watching) TV now. I          (watch) TV every day.
+He          (have) a big dinner before we arrived last night. It          (be) a good meal. He seldom          (eat) so much.
+He          (work) on this novel for a very long time. By the time he          (finish) it, he          (written) six novels.
+I         (be) to America several times. I         (go) to America again next year.
+I          (live) in Taipei when I was a child. When I was six years old, I          (move) to Taiwan and          (live) there ever since.
+He          (be) an honest person all his life. That is why so many people          (like) him.
+It          (be) my birthday tomorrow. Yet I          (have) a test the day after tomorrow. So I          (study) in the library tomorrow night.
+He          (be) a strong kid when he was young. Now although he          (be) seventy years old, he          (be) still quite healthy.
+I          (have) this car for nine years. I          (sell) it and          (buy) a new one next year.
+He          (take) a bath every morning. Today, since he          (get) up very late, he          (go) to school directly without taking a bath.
+
+第六章　否定句子(Negative Sentences)
+6§1 否定句的基本规则
+　　在任何语言，我们都有必要造出〝否定〞的句子，在中文，写出否定句子并非难事，在英文，无论任何否定句子，都必须遵行一些规定，以下是否定句子的例子
+肯定句子
+否定句子
+I like music.
+I don't like music.
+He loves swimming.
+He does not love swimming.
+They have come to work.
+They have not come to work.
+Mary went to see a movie yesterday.
+Mary did not go to see a movie yesterday.
+John is a good boy.
+John is not a good boy.
+I will go to New York tomorrow.
+I will not go to New York tomorrow.
+He can sing.
+He can not sing.
+You may go now.
+You may not go now.
+He should sleep early.
+He should not sleep early.
+It is raining now.
+It is not raining now.
+It rains very often here.
+It does not rain very often here.
+He has a lot of money.
+He does not have a lot of money.
+It is exciting to see this game.
+It is not exciting to see this game.
+He asked me three questions.
+He did not ask me three questions.
+　　从以上的例子来看，我们可以归纳出以下的规则：
+1.Verb to be 后面可以直接加not。例如：
+He is not a good teacher.
+Mary was not very happy when she was young.
+They are not strong boys.
+Peter is not coming.
+John is not going to work.
+2.助动词后面可以直接加not。例如：
+He has not written any letter.
+They will not come.
+He cannot swim.
+They should not cry very often.
+Tom had not eaten any thing before you came.
+He may never eat cakes in the future.
+John has not lived here.
+3.一般句子的动词必须加入do或他的变形。
+He does not smoke.
+He did not go.
+I do not love sports.
+You do not like to eat fish.
+They do not swim very well.
+We did not see that movie.
+　　在英文中，我们可以用have to来代替must，以下是have to的例子：
+He has to go to Chicago tomorrow.（他明天应该去芝加哥）
+They had to buy three tickets to go to the concert.（他们必须买三张票去听音乐会）
+I have to work very hard.（我必须努力工作）
+　　含有have to的句子，如要改成否定句子，必须在have to前面加do或它的变形，请看以下的例子：
+肯定句子
+否定句子
+He has to eat a lot of food.
+He does not have to eat a lot of food.
+He had to leave
+He did not have to leave.
+I have to write that letter.
+I do not have to write that letter.
+【练习二十三】
+将以下的肯定句子改成否定句子：
+I saw your brother last night.
+I like apples.
+She is a beautiful girl.
+They can play violin very well.
+Mr. Chang must answer the following questions.
+He went to see his brother last night.
+He could sing many songs.
+He will buy this car.
+It rained heavily last night.
+I have lived here for three years.
+He has to see his mother.
+He had to stay here yesterday.
+6§2 No, Never和Any的用法
+　　要达成否定的意思,有时我们也可以用no和never这些字，no必须跟一个名词，请看下面的例子：
+1.I saw no students here.
+2.There are no lakes in this country.
+3.I have no money.
+4.I had no choice.
+5.He has no friends.
+　　以上这些例子也可以用not来表示否定的意思，如果用not，则以上的句子应该照下面的方式写；
+1.I did not see any student here.
+2.We can not find any lake in this country.
+3.I do not have any money.
+4.I did not have any choice.
+5.He does not have any friends.
+　　除以上not之外，never也可以表达否定的意思，以下都是never的例子，请注意never常用在完成式的句子里：
+I have never gone there.
+He has never written any song.
+They have never washed their clothes.
+【练习二十四】
+用no，not和never填空在以下的句子里:
+I have          money.
+A selfish person does          have any friends.
+           man is entirely alone.
+           one is living here. We can          get into this house.
+           a single person loves me.
+           one loves me.
+The person whom I saw did          come.
+I did          go to work yesterday.
+I had          work to do yesterday.
+I can          find any one in this hall.
+I have          gone to America.
+He has          written to me.
+
+第七章 问句(Questions)
+7§1　答案只是〝Yes〞或〝No〞的问题
+　　有些问题，答案只有〝Yes〞或〝No〞，以下是一些例子。
+原来句子
+问句
+I am a boy.
+Am I a boy?
+He has a car.
+Does he have a car?
+I gave him three books.
+Did I give him three books?
+He cannot work.
+Can he work?
+He has not seen me.
+Has he seen me?
+They like your novel.
+Do They like your novel?
+The sun sets in the west.
+Does the sunset in the west?
+They are good teachers.
+Are they good teachers?
+He will not go to a concert tonight.
+Will he go to a concert tonight?
+He is going to swim.
+Is he going to swim?
+They must eat vegetables.
+Must they eat vegetables?
+They have to go.
+Do they have to go?
+I walked two kilometers yesterday.
+Did I walk two kilometers yesterday?
+It is raining now.
+Is it raining now?
+　　根据以上的例子，我们可以归纳乘以下的规则：
+凡动词是verb to be的，变成问句时，动词移到主词前面去。
+例子：
+原来句子
+问句
+You are a girl.
+Are you a girl?
+He was a teacher.
+Was he a teacher?
+They were all old.
+Were they all old?
+This song is beautiful.
+Is this song beautiful?
+Peter is a good student.
+Is Peter a good student?
+动词不是verb to be，也没有助动词，改成问句时，必须加助动词do或他的变形，这个助动词必须在主词的前面。
+例子：
+原来句子
+问句
+I like music.
+Do I like music?
+He likes sports.
+Does he like sports?
+Peter went to America.
+Did Peter go to America?
+He ate three apples last night.
+Did he eat three apples last night?
+Her mother calls her every week.
+Does her mother call her every week?
+句子中间如已有助动词，改成问句时，只要将助动词移到主动词前面即可。
+例子：
+原来句子
+问句
+He did not eat.
+Did he eat?
+He has gone to America.
+Has he gone to America?
+She can dance.
+Can she dance?
+I will see you tonight.
+Will I see you tonight?
+They are going to Washington.
+Are they going to Washington?
+　　我们的问句中，当然也可已有否定的意义，比方说，我们可以问：
+你不喜欢音乐吗？
+他不是你的弟弟吗？
+你从未见过他？
+　　英文句子也可以如此，例如：
+Don't you like music?
+Doesn't he play piano?
+Aren't you his brother?
+Isn't he a good student?
+Didn't he go to school?
+Hasn't he lived here?
+Won't he leave tomorrow?
+　　注意，这时not通常和动词连在一起了。
+　　有一件事，是我们中国人必须注意的，假如有人问你：
+你不喜欢音乐吗？
+而你本人的确也不喜欢音乐，你会回答说：
+是，我不喜欢音乐。
+　　也就是说，我们中国人的回答是顺着问句的。问句说你不喜欢，我们同意他的说法，所以前面加一个〝是〞。假设我喜欢音乐，我会回答说：
+不，我喜欢音乐。
+可是，英文正好相反，英文的yes和no，与问句的问法无关，而对应了回答的事实。举例来说，我们的问句也许是：
+Don't you like music?
+你如不喜欢音乐就回答说：
+No, I don't like music.
+你如喜欢音乐，就回答说：
+Yes, I like music.
+再举一例，有人问：
+Isn't he Chinese?
+他是中国人就回答：
+Yes, he is.
+他如不是，就回答：
+No, he isn't.
+反正，英文的yes和no，都和答案的事实对应，而与如何问无关。
+【练习二十五】
+将以下句子翻译成英文问句：
+你喜欢他吗？
+他是美国人吗？
+你昨天有没有去教堂？
+他曾经到过日本吗？
+你要去台北吗？
+他不喜欢体育吗？
+你从未去过日本吗？
+他有一个妹妹吗？
+他们都是学生吗？
+你的哥哥昨天见过我爸爸吗？
+7§2 回答不只是〝yes〞和〝no〞的问句
+　　问句的答案当然不一定只是yes或no，以下的问句都是例子：
+Where did you buy this book?
+Where did you see him?
+How do you like America?
+Whom do you like?
+Which cake do you want?
+Whose book is this?
+What kind of method is this?
+Which country were you born in?
+Which do you want, an apple or an orange?
+Whom do you like most, your brother or your sister?
+Where did you go last night?
+When did you meet your father?
+When did you read this book?
+Whom did you give this book to?
+　　以上的问句中都有助动词，但以下的问句中，助动词是不存在的：
+Who gave you this car?
+Who wrote this letter?
+Who took my pen away?
+Who wants to go with me?
+Who can sing this song?
+【练习二十六】
+将以下的中文问句翻译成英文问句：
+你在哪里买这本书的？
+他什么时候到美国去的？
+他爸爸的名字是什么？
+这是谁的书？
+你从哪里来的？
+你要哪一本书？
+这个孩子是谁？
+他最喜欢谁？
+他叫什么名字？
+你昨天到哪里去了？
+这是谁的狗？
+【练习二十七】
+填空
+           did you go last night?
+           book do you like?
+           is your brother?
+           is his name?
+           wrote this letter?
+           did you give this book to?
+           gave you this book?
+           car is this?
+           dog is this?
+           movie did you see?
+           can speak English?
+           did you speak to?
+           kind of car is this?
+           fruit do you like most?
+           does not swim?
+被动语气(Passive Voice)
+8§1 及物动词和不及物动词
+　　任何一个英文句子必定有一个动词，请先注意以下例句的动词
+He was a teacher before.
+He went to school yesterday.
+He hit a dog.
+I saw you yesterday.
+He walks to school every day.
+He sent this book to me.
+They are good students.
+He wrote two novels.
+They ate all of the apples.
+10. He swims every morning.
+　　在以上的例子中，第3、4、6、8及9句子中的动词都是及物动词（transitive verbs）。这些动词后面都跟着一个名词，而这个名词是动词的受词（object），其它句子的动词，都是不及物动词，因为他们都没有任何受词。
+　　我们将以上句子中，主词、及物动词和受词的关系分析如下：
+句子
+主词
+及物动词
+受词
+He hit a dog.
+He
+hit
+dog
+I saw you yesterday.
+I
+saw
+you
+He sent his book to me.
+He
+sent
+his book
+He wrote two novels.
+He
+wrote
+two novels
+They ate all of the apples.
+They
+ate
+all of the apples
+　　一旦动词是及物动词，我们就可以将这个句子由原来的主动语气（active voice）改成被动语气（passive voice）。但我们也要警告读者，不要轻易用被动语气，因为有时被动语气的句子是不自然的。
+8§2 没有助动词的被动语气
+　　在这以前，我们的句子都是主动语气，这种句子的基本形式如下：
+    主词＋动词＋受词
+　　所谓的被动语气，乃是将原来的受词变成主词。举例来说，主动语气中，我们说〝我看到一些狗〞，在被动语气中，我们说〝一些狗被我看到〞。在英文中，将主动语气改成被动语气，必须做以下的动作：
+原有受词变成名词
+动词变成verb to be＋过去分词（past participle）
+原有主词变成在动词后面，但前面加by。
+举例来说，主动语气的句子可以是
+I saw a cat.
+被动语气就成了
+A cat was seen by me.
+　　最重要的是，verb to be的时式必须和原句子的相同，以上的例子中，动词是过去式，所以verb to be也是过去式。除此以外，verb to be也要配合新的主词。请看以下的例子：
+I saw two cats.
+改成被动语气以后，句子是：
+Two cats were seen by me.
+　　以下是主动改被动的例子，最重要的是注意verb to be的形式：
+主动语气（active voice）
+被动语气（passive voice）
+Mr. Jones hit the dog.
+The dog was hit by Mr. Jones.
+My brother saw you yesterday.
+You were seen by my brother yesterday.
+He sent the book to me.
+The book was sent to me by him.
+Dickens wrote those two novels.
+Those two novels were written by Dickens.
+They ate all of the apples.
+All of he apples were eaten by them.
+Jane wrote that song.
+That song was written by Jane.
+My mother loves me.
+I am loved by my mother.
+【练习二十八】
+将以下的句子由主动语气改成被动：
+He saw that movie last night.
+He wrote that letter to me.
+He teaches those English classes.
+God loves you.
+They bought two houses.
+I painted this room.
+He grows those roses.
+He helps his students.
+I sold the house.
+My uncle bought this car.
+【练习二十九】
+将以下的句子由被动语气改成主动语气：
+The policeman was seen by me.
+Those two books were written by me.
+These sentences were corrected by my teacher.
+He was hit by a car.
+His door was locked by me.
+His house was built by my father.
+His boat was given to me by my father.
+This bird is rarely seen by people here.
+He is liked by every one.
+They were given ten dollars by their friends.
+This picture was taken by him.
+Too much wine was drunk by the young men.
+I was taught by Mr. Wang.
+He was helped by his father.
+They were served by that waiter.
+His food was prepared by my mother.
+His toy was made by my sister.
+The book was returned to me by Jim.
+That song was written by my brother.
+I was invited by him to a party.
+8§3 有助动词肯定句子的被动语气
+　　在上一节，我们所有的例子都只是肯定句子，句子中没有助动词，可是有些肯定句子还是有助动词的，以下是一些例子：
+
+
+主动语气
+被动语气
+现在进形式
+I am writing this letter.
+The letter is being written by me.
+现在完程序
+I have written the letter.
+The letter has been written by me.
+过去进形式
+I was writing the letter when you came.
+The letter was being written by me when you came.
+过去完程序
+I had written the letter before you came.
+The letter had been written by me before you came.
+未来式
+I will write the letter.
+The letter will be written by me.
+未来完成式
+I will have written this letter.
+This letter will have been written by me.
+未来式
+I am going to see you.
+You are going to be seen by me.
+以下是更多的例子：
+主动语气
+被动语气
+I have seen him.
+He has been seen by me.
+He is going to help you.
+You are going to be helped by him.
+He will teach English.
+English will be taught by him.
+He has helped me all my life.
+I have been helped by him all my life.
+He had called me before you came.
+I had been called by him before you came.
+He was calling his mother when we went there.
+His mother was being called by him when we went there.
+　　助动词不一定和时式有关，can、should、has to等等都是助动词，这些助动词在改成被动语气的时后，都应维持原状，只需加入verb to be和过去分词即可。以下是一些例子：
+主动语气
+被动语气
+I can play the piano.
+The piano can be played by me.
+I may use this room.
+This room may be used by me.
+He must give the book to me.
+The book must be given to me by him.
+You should help him.
+He should be helped by you.
+You have to write this letter.
+This letter has to be written by you.
+He ought to write this report.
+This report ought to be written by him.
+【练习三十】
+将以下的句子改成被动语气：
+He has written three novels.
+He will write that letter.
+They will sing these songs tomorrow.
+He will give the speech.
+They are painting the house.
+I have given him three books.
+I can do this job.
+He had told me that story before we went there.
+Teachers should help the students.
+He is writing the report now.
+The students must read this book.
+I have to give this letter to my mother tonight.
+All citizens ought to obey the law.
+He has eaten all of the cakes.
+The reporters were taking pictures when the storm started.
+He had finished the work before five o'clock last night.
+Peter will write that letter.
+John has received my letter.
+Millions of people saw the movie "Gone with the wind".
+He has proved that theorem.
+【练习三十一】
+将以下句子改成主动语气：
+Two books have been written by Joseph.
+Football is being played by John.
+He should be given that lecture by his father.
+That report will be written by him.
+The letter has been received by the King.
+This movie should be seen by every one.
+This book ought to be read by every student.
+They are being helped by me.
+The movie is going to be seen by all of us.
+This cake can be eaten by kids.
+8§4 否定句子的被动语气
+　　将一个否定句子或一个问句改成被动语气，其步骤如下：
+将此句子改成肯定句子
+将此肯定句子改成被动语气
+将此被动语气的句子改成否定句子
+现在举一个否定的例子：
+I did not take this picture.
+对应的肯定句子是：
+I took this picture.
+改成被动语气：
+This picture was taken by me.
+再改成否定句子：
+This picture was not taken by me.
+　　下面的例子都是用来解释如何将一个否定句子改成被动语气：
+They did not like the music.
+(a). They liked the music.
+(b). The music was liked by them.
+(c). The music was not liked by them.
+I have not written that letter.
+(a). I have written that letter.
+(b). That letter has been written by me.
+(c). That letter has not been written by me.
+
+You can not eat that cake.
+(a). You can eat that cake.
+(b). That cake can be eaten by you.
+(c). That cake can not be eaten by you.
+He does not play music.
+(a). He plays that kind of music.
+(b). That kind of music is played by him.
+(c). That kind of music is not played by him.
+I am not going to see you.
+(a). I am going to see you.
+(b). You are going	to be seen by me.
+(c). You are not going to be seen by me.
+They will not see that movie.
+(a). They will see that movie.
+(b). That movie will be seen by them.
+(c). That movie will not be seen by them.
+They did not help me.
+(a). They helped me.
+(b). I was helped by them.
+(c). I was not helped by them.
+I did not tell that story.
+(a). I told that story.
+(b). That story was told by me.
+(c). That story was not told by me.
+　　在下面，我们将省略中间步骤，直接写出一个否定句子的被动语气，英文好的人应该是不需要中间步骤的：
+主动语气
+被动语气
+They do not enjoy such music.
+Such music is not enjoyed by them.
+He did not tell that story.
+That story was not told by him.
+They have not written that story.
+That story has not been told by them.
+Peter is going to see me.
+I am not going to be seen by Peter.
+He will not help me.
+I will not be helped by him.
+John will not eat that cake.
+That cake will not be eaten by John.
+I can not drink that wine.
+That wine can not be drunk by me.
+【练习三十二】
+将以下的否定句子改成被动语气：
+The farmers here do not grow apples.
+He did not meet me last night.
+I have not written that letter.
+John is not going to see that movie.
+I did not watch that movie.
+He does not speak English.
+He will not speak English.
+You should not eat that cake.
+My mother does not eat that kind of fish.
+John has not written that report.
+【练习三十三】
+将以下句子改成主动语气：
+The book was not written by him.
+I am not going to be helped by you.
+That book has not been received by John.
+That song is not liked by college students.
+John is not loved by Mary.
+I will not be met by my student tomorrow.
+Meat is not eaten by vegetarians.
+The door was not opened by me.
+That ten dollars were not paid by me.
+The car was not bought by me.
+8§5 问句的被动语气
+　　将问句改成被动语气，步骤类似上一节的步骤，我们先将问句变成肯定句子，然后将这个定句子变成被动语气，最后在将这个被动语气的句子变回，成为问句。
+例如：
+Do young kids enjoy classical music?
+先改成肯定句子
+Young kids enjoy classical music.
+再改成被动语气
+Music is enjoyed by young kids.
+最后改成问句
+Is music enjoyed by young kids?
+　　为了使读者熟悉这些步骤，我们在下面举了很多的例子：
+1. Did you eat that cake?
+You ate that cake.
+That cake was eaten by you.
+Was that cake eaten by you?
+2. Do farmers in Taiwan grow apples?
+Farmers in Taiwan grow apples.
+Apples are grown by farmers in Taiwan.
+Are apples grown by farmers in Taiwan?
+3. Have you finished the report?
+You have finished the report.
+The report has been finished by you.
+Has the report been finished by you?
+4. When did you write that letter?
+You wrote that letter.
+That letter was written by you.
+When was the letter written by you?
+5. Have you seen that movie?
+You have seen that movie.
+That movie has been seen by you.
+Has the movie been seen by you?
+6. When did Stevenson write that novel?
+Stevenson wrote that novel.
+That novel was written by Stevenson.
+When was that novel written by Stevenson?
+8. Is he painting his room?
+He is painting his room.
+His room is being painted by him.
+Is his room being painted by him?
+　　在下面，我们将省略中间步骤，直接写出一个问句的被动语气，英文好的人应该是不需要中间步骤的：
+主动语气
+被动语气
+Does he help his students?
+Are his students helped by him?
+Did he tell that story?
+Was that story told by him?
+Has she written that story?
+Has that story been written by her?
+Whom is Peter going to visit?
+Who is going to be visited by Peter?
+When did you read that book?
+When was that book written by you?
+Does he enjoy that song?
+Is that song enjoyed him?
+Why do his friends avoid him?
+Why is he avoided by his friends?
+Whom did you see?
+Who was seen by you?
+Has he read that report?
+Has that report been read by him?
+Is he writing that letter?
+Is that letter being written by him?
+【练习三十四】
+将以下句子改成被动语气：
+Is he writing a book?
+Did he write that book?
+Did you sign that letter?
+Where did you see that movie?
+When did you see that movie?
+Has he finished that job?
+Did mother give you the gift?
+Did your mother visit you last night?
+Do they grow roses?
+Do they speak English?
+Did you play that game of tennis?
+Will you teach English?
+【练习三十五】
+将以下句子改成主动语气：
+Was the cake eaten by you?
+Is he liked by all of us?
+Is that kind of music loved by every one in Japan?
+Is fish eaten by old people?
+Are roses loved by most women?
+Was he called by you?
+Is soccer played by John?
+When was this music written by Mozart?
+When was he seen by you?
+Were they seen by you last night?
+【练习三十六】
+将适宜的动词填入
+I          (send) two letters yesterday.           (do) you          (receive) them? Every letter           (write) by me. Please          (write) back to me soon.
+I          (invite) to a dancing party last week. The music          (be) so noisy. I          (leave) the party as early as I          (can).
+Did you          (write) that report? Yes, it          (write) by me.
+He          (not like) music when he was a child. After he          (get) into college, he          (teach) by a good music professor. Now, he          (enjoy) music very much and          (listen) to classical music every morning.
+I          (buy) a red car yesterday. It          (make) in Japan. It will __________ (deliver) to me tomorrow.
+I          (not go) to school yesterday because my bicycle          (steal).
+I          (buy) a new bike yesterday.
+Where          (do) you go last night? I          (can) not          (find) you. You          (see) by no one.
+A:           (do) he          (smoke)?
+B: No, he          (do not). Smoking has never          (try) by him.
+Was the book          (write) by him?
+I          (buy) three books lately. One          (write) by Graham Greene.
+I          (finish) reading it. There          (be) many interesting stories in it.
+【练习三十七】
+改错：
+＊This is a book which wrote by Dickens.
+＊Are the music enjoyed by those elderly people?
+＊When are you visited by your father yesterday?
+＊This book written by John.
+＊He is invited to come to my home by my father yesterday.
+＊This house is built in 1913.
+＊This letter was wrote by him.
+＊This letter has never finished.
+＊Was you given a book?
+＊I have never called by my father. I always call him first.
+
+第九章 动词如何转换成名词     动名词（Gerund）和不定词（Infinitive）
+9§1 问题的来源
+　　对我们说中文的人而言，一个字究竟是动词，还是名词，其实是很少人知道的，对一般人而言，〝唱歌〞是动词，但是如果我们说，〝唱歌是有益的〞，我们又发现〝唱歌〞其实也是名词。〝我爱唱歌〞，这句话中，〝唱歌〞也是名词。
+　　英文就不同了，英文里很少有一个字，又是动词，又是名词的，sing是动词，绝不能当很名词用。怪不得有很多中国人会说
+＊Sing is good for you.   或者是  ＊I like sing.
+既然sing是动词，也没有一个〝sing〞的名词，怎么办呢？英文解套的办法很有趣，他们用动名词（gerund）和不定词（infinitive）来将一个动词改成一个名词。
+9§2 动名词（Gerund）
+　　所谓动名词，乃是将一个动词，字尾加上ing，一夜之间，这个动词就可以当作名词用了。请看以下的例子：
+I like singing.
+Playing basketball is good for you.
+Do you enjoy listening to classical music?
+Is traveling around the world meaningful to you?
+Studying English is not difficult.
+我们不妨将动名词的用法分一下类：
+1.动名词可用作主词，如
+Playing tennis is enjoyed by many people.
+Taking drugs is avoided by most people.
+eing kind to others is important for every one.
+Respecting your parents shows good character.
+2.动名词可以用作动词的受词，如
+I enjoy studying English.
+He does not mind walking long distances.
+I have never enjoyed being alone in my life.
+He loves swimming.
+3.动名词可以用作介系词（preposition）的受词，英文里有很多介系词，at, in, about, of, on等等都是介系词，介系词后面必定跟一个名词，也是它的受词，举例来说
+on the table
+in my home
+about Hitler
+of my life
+on this island
+各位一定注意到，每一个介系词后面都有一个名词，作为它的受词。
+动名词是可以作为介系词的受词的，如：
+This book is about traveling.
+He is responsible for cleaning the kitchen.
+My brother is capable of writing programs.
+You just keep on going straight.
+　　在下面，我们要给各位更多有关gerund的例子，各位不妨看看每一个句子中，那个动名词是作什么用的。
+Instead of swimming, he walks every morning.
+He likes walking in the woods.
+Are you interested in playing tennis?
+Loving is to be kind to others.
+Reading is important to students.
+In addition to traveling, he also likes reading novels.
+You will be happy by helping others.
+He is worried about being late.
+I finished writing the report yesterday.
+They thanked me for lending them money.
+He has never finished writing the novel.
+She is in change of teaching English in our school.
+My father objected to my going to the summer camp.
+Please stop joking about my brother.
+I look forward to seeing you.
+He has never enjoyed traveling.
+She was excited about going abroad.
+I consider gambling a bad thing to do.
+I have never dreamed of flying an airplane.
+He suggested talking to our teacher.
+I believe in doing some kind of exercise every day.
+Playing the piano is no fun at all.
+Nancy is accustomed to sleeping late.
+Are you tired of driving for so long?
+You should forgive others for doing wrong things.
+He insists on getting up early every morning.
+Thank you for participating in my concert.
+He is used to studying alone.
+They are not used to speaking English.
+He is accustomed to being polite to others.
+I object to seeing dirty movies.
+You should take advantage of studying in such a good place.
+【练习三十八】
+改正以下的错误
+1.＊Play tennis is fun.
+2.＊I hate swim.
+3.＊Stop talk about me.
+4.＊In addition to read interesting books, you should also watch TV from time to time.
+5.＊I am not interested in swim.
+6.＊He talks about go to America.
+7.＊I believe in do exercise every day.
+8.＊The cost of transfer a student to another school is very high.
+9.＊Please forgive me for make this mistake.
+10.＊Swim keeps me from getting cold.
+【练习三十九】
+填充，每一个句子填入一个介系词和一个动名词，先举一个例子。
+1. I am interested            (listen)            to music.
+2. Please forgive me            (be)            so late.
+3. In addition            (study)            , you should also have some exercises every day.
+4. We talked            (build)            a house next year.
+5. Thank you            (help)            me.
+6. He is excited            (travel)            to Japan.
+7. I am looking forward            (meet)            you.
+8. He insists            (talk)            to me personally.
+9. I believe            (exercise)            every day.
+10. Did you participate            that (swim)            match.
+11. He was not used            (listen)            to classic music.
+12. My mother objected            (visit)            my aunt tomorrow.
+13. I am not accustomed            (go)            to bed so late.
+14. I am interested            (swim)           .
+15. Are you responsible            (write)            this report?
+16. He is excited            (see) me tomorrow.
+17. He is looking forward             (see) that movie.
+18. I am not used            (hear)            that kind of noise.
+19. You should take advantage            (have)            such a good family.
+20.He is in charge            (send)            students to other schools.
+【练习四十】
+将以下中文句子译成英文句子：
+1.我不喜欢跳舞。
+2.你对游泳有兴趣吗？
+3.打蓝球是有趣的。
+4.我们昨天谈到（talk about）教英文的事。
+5.我不习惯（be not used to）抽烟。
+6.我反对（object to）在公开场合哭泣（cry in public）。
+7.除了游泳以外，他还应该打棒球（用in addition to）。
+8.他可以（be capable of）每天跑一公里。
+9.他负责（be in charge of）找寻一个好的地方。
+10.我已习惯了（be accustomed to）早起。
+9§3 不定词（Infinitives）
+　　不定词＝to＋动词的原式。例如to go, to love, to eat等等，都是不定词，不定词和动名词的用法相似，以下全是用不定词用作名词的例子：
+To love is to forgive.
+To forgive your enemies will make you happy.
+I like to eat chicken.
+I asked my brother to come here.
+He continued to read.
+　　也许读者发现了不定词和动名词不同的地方：不定词不能用在介系词的后面，以下的句子都是错的：
+＊I am interested in to play piano.
+＊He is worried about to go abroad.
+＊I am in charge of to prepare for the party.
+如何将不定词用成名词呢？
+1.不定词可以用作主词：如
+To play tennis is great fun.
+To play safe in the stock market is necessary.
+To be kind to others is important for every one.
+To respect your parents shows good character.
+2.不家词可以用成很多动词的受词：
+I like to swim.
+He loves to listen to jokes.
+My brother seems to be different.
+I agree to lend him money.
+Do you like to sing?
+3.不定词可以跟在代名词的后面，形式如下：
+　　动词（verb）＋代名词（pronoun）＋不定词（infinitive）
+例如：
+I told him to work hard.
+I asked my brother to come back home.
+He expects his friends to help him.
+My teacher told me to wait for him.
+I invited my sister to go to see a movie.
+4.不定词常用在上述句子的被动语气中，例如：
+He was told to work hard.
+My brother was asked to come back home.
+His friend is expected to help me.
+I was told by my teacher to wait.
+My sister was invited to go to see a movie.
+以下是更多的不定词例子：
+To give is more meaningful than to receive.
+I love to swim in cold weather.
+He agreed to listen to my story.
+He decided to go anyway.
+I told him to buy my book.
+I invited him to come to my house.
+I asked him to cook for me tonight.
+Students are asked to work hard.
+He needs to work hard.
+I want you to send this letter to my father.
+He requires every student to read one novel every week.
+Every student is required to read one novel every week.
+　　读者一定会问，是不是动名词可以和不定词互调，答案是否定的，有些动词后面可以跟动名词和不定词，但也有些动词，后面只能跟动名词，有些动词后面只能跟不定词。
+　　有些动词后面可以跟动名词或不定词：love, like, hate, start, begin,以下的动词，后面只能跟动名词：
+Enjoy
+I enjoy eating good food.
+Appreciate
+I appreciate your being kind to others.
+Avoid
+You should avoid making mistakes.
+keep on
+Keep on working hard.
+keep
+Keep singing.
+consider
+He considered leaving home.
+finish
+He finished writing this book.
+suggest
+May I suggest drinking a cup of coffee?
+discuss
+We discussed traveling to New Zealand.
+以下的动词正好相反，只能跟不定词
+agree
+I agree to sign this letter.
+plan
+He plans to go away.
+want
+They want to rent a car.
+decide
+He decided to work hard.
+seem
+He seems to be very happy.
+appear
+He appears to be very sad.
+　　一个字非常特殊，必须讨论一下，那就是stop：
+　　　　　stop smoking  指不再抽烟了
+　　　　　stop to smoke  指停下来，开始抽烟
+9§4 动名词和不定词的被动和否定形式
+　　将动词改成名词的时候，也可以有被动语气和否定语气，以下是一些例子：
+Everyone likes to be loved.
+This cup needs to be washed.
+Being trusted is important.
+I told him not to leave this house.
+He asked me not to cry.
+I was told not to fall asleep in class.
+To be given a good gift on Christmas Eve makes me happy.
+Being invited to that party is a great honor to me.
+【练习四十一】
+将下面的空格填入动名词或不定词
+1. I enjoy          (listen) to rock and roll music.
+2. I asked him          (go) away.
+3. He was asked          (leave).
+4. I suggest          (have) some fun.
+5. He seems          (be) a kind person.
+6. You appear          (be) quite tired.
+7. I told him          (have) a cup of wine.
+8. I invited him          (come) over.
+9. Every one of you is required          (work) hard.
+10. Do you like          (swim)?
+11. I ordered him          (read) my book.
+12. I was expected          (write) a letter to you.
+13. He asked me          (read) this letter to him.
+14. Please keep          (talk) to me.
+15. Stop          (drive) s fast. It is dangerous to drive too fast.
+16. I hate          (smoke).
+17.          (pass) the test is important.
+18.          (work) hard is the key to success.
+19. My wife asked me to          (bring) some flowers home.
+20. He avoided          (tell) lies.
+【练习四十二】
+将以下中文句子译成英文句子，用gerund或infinitive。
+1.我请（invite）他到我家来。
+2.我教（teach）他游泳。
+3.被人爱令人快乐。
+4.我讨厌（hate）抽烟。
+5.我们应该避免（avoid）饮烟。
+6.不要再（stop）抽烟了。
+7.每个人都期待（expect）他写一本好书。
+8.我要求（require）他每天念英文。
+9§5 不定词的简式
+　　不定词中一定要有to，但在有几个动词的后面，to又要省掉，最著名的是let，我们绝不可以说
+＊I let him to leave.
+而一定要说
+I let him leave.
+我们也不能说
+＊I made him to work hard.（我使他努力工作）
+而一定要说
+I made him work hard.
+　　以下的动词后面，不定词的后面都要省掉to。
+动词
+例句
+let
+My mother let me watch TV tonight.
+make
+He makes his students respect teachers.
+have
+He had his sons clean their rooms.
+see
+I saw him run away.
+hear
+I heard the birds sing.
+watch
+I watched the kids play.
+notice
+I noticed her cry.
+　　因为在这些动词的后面，本来应该用不定词，仅仅是to被省掉了，因此我们在这些动词的后面仍然要用原式，以下的句子都是错的：
+＊He made his son ran away from home.
+＊I saw him walked away..
+＊I have never heard him sang any song.
+　　Help这一个动词非常特别，它后面的不定词中的to可省略也可不省，以下的句子都是对的：
+I helped him wash his car.
+I helped him to wash his car.
+【练习四十三】
+以下的句子都有错，请改正：
+1.＊He lets his son to drive his car.
+2.＊He made me felt happy.
+3.＊I made my friend to discuss his problem with me.
+4.＊I had my son to get up early every morning.
+5.＊I helped my father painted his house.
+6.＊I had my brother to carry this heavy luggage for me.
+7.＊I had Mary to marry me.
+8.＊This song makes everyone to cry.
+9.＊I helped Nancy worked hard.
+10.＊He made us to believe him.
+11.＊I saw him to play.
+12.＊I heard Mary sang several songs.
+13.＊I watched her to swim.
+14.＊I saw the birds to fly away.
+第十章 如何将动词改成形容词
+　　我们中文里，一个字有时是动词，有时却又可以用作形容词，最著名的例子是〝微笑老萧〞（萧万长院长的外号）〝微笑〞应该是动词，可是在这里，显然〝微笑〞是形容词。〝哭泣〞通常是动词，可是我们也可以说〝哭泣的孩子〞。也难怪我们常见到以下错误的英文句子：
+a smile face
+a run boy
+需知smile和cry都是动词，是不能当作形容词来用的。
+　　可是，更糟糕的是以下句子：〝住在台湾的人很有钱〞，我们很多人会说
+People live in Taiwan are rich.
+　　以上的话为什么错呢？因为People是主词，are是动词，live in Taiwan形容people，可是live是一个动词，不能用作形容词的。怎么办呢？我们可以将一个动词用成一个形容词，我们的做法是利用分词（participle）和不定词（infinitive），而分词有两种：现在分词（present participle）和过去分词（past participle），我们在下一节，先谈现在分词的用法。
+10§1 现在分词（present participle）作为形容词
+　　任何一个动词，都有一个现在分词（present participle），现在分词的形式是在动词后面加上ing，如：
+laughing
+crying
+walking
+swimming
+running
+　　以下的例子中，现在分词都是形容词
+a crying baby
+a smiling girl
+an exciting story
+running water
+a running boy
+a rising star
+现在分词不一定放在名词的前面，在以下的句子中，现在分词都在名词的后面
+a person walking in the woods
+the young man running very fast
+people living in Taiwan
+the person driving that red car
+the singer singing the national anthem（国歌）
+the boys playing in the fields
+the young boy swimming in the pool
+以下句子中的现在分词，都被用作形容词。
+We have a crying baby here.
+Seeing is believing.（believing是形容词，seeing是名词）
+Loving is forgiving.
+He always wears a smiling face.
+Running water is important for mankind.
+Look at the rising sun.
+The person swimming in that cold river is quite strong.
+The young man driving the red car is rich.
+Those boys playing basketball are happy.
+This movie is exciting.
+This news is very upsetting.
+This story is troubling.
+The young boy swimming in the pool is my brother.
+People living in the United States consume more energy than other people.
+The person painting the house there is from Mexico.
+She has a loving husband.
+He is a rising star.
+【练习四十四】将以下的中文句子译成英文，每句都要用现在分词
+1. 这是一本有趣的故事。
+2. 这门课很无聊（boring）。
+3. 看那只在唱歌的鸟。
+4. 那位微笑的人是我的哥哥。
+5. 住在乡下的人通常很健康。
+6. 我不认识那位骑脚车的男孩子。
+7. 那位正在吃冰淇淋的小孩子是我的儿子。
+8. 那位在问问题的学生非常聪明。
+9. 你见过那位打篮球的男孩子吗？
+10.那位垂死（dying）的病人是我的老师。
+10§2 过去分词（past participle）作为形容词
+　　在完成式中，我们要用过去分词，过去分词也可以作为形容词，以下是一些例子：
+a broken window （破碎的窗）
+a fallen angel （堕落的天使）
+a fallen star （已经不走红的明星）
+a depressed person （一个沮丧的人）
+a much appreciated action （为人很欣赏的动作）
+　　究竟过去分词和现在分词何不同呢？过去分词多半有动被和已经完成的意思。最好的例子是：开发中家叫做a developing country，已开发国家就叫做a developed country。
+以下的例子可以解释过去分词和现在分词的不同：
+1. (a)这本书很有趣。
+  This book is interesting.
+(b)我对这本书很有兴趣。
+  I am interested in this book.
+2. (a)这是一部令人沮丧的电影。
+  This is a depressing movie.
+(b)我看了这部电影以后，感到非常沮丧。
+  I felt very much depressed after seeing that movie.
+3. (a)结果令人失望。
+  The result is frustrating.
+(b)他因这个结果而非常失望。
+  He was frustrated because of the result.
+4. (a)这个消息真令人难过。
+  This news is really upsetting.
+(b)他们都很难过。
+  They are all upset.
+5. (a)约翰的进步令人鼓舞。
+  John's progress is encouraging.
+(b)我因约翰的进步而感到鼓舞。
+  I am encouraged by John's progress.
+6. (a)水在烧。
+  The water is boiling.
+(b)这是烧开的水。
+  This is boiled water.
+7.(a)这个消息出人意外。
+  This news is surprising.
+(b)我对这个消息感到意外。
+  I was surprised by the news.
+8. (a)他的谈话令人困惑。
+  His words are confusing.
+(b)他是一个充满困惑的人。
+  He is a confused person.
+　　记住，以下的句子都是错的：
+＊His statements are confused to me.
+＊I am interesting in music.
+＊He is an interested person.
+＊This is indeed a surprised news.
+＊This news is encouraged.
+正确的句子应该是：
+His statements are confusing.
+I am interested in music.
+He is an interesting person.
+This is indeed a surprising news.
+This news is encouraging.
+以下是含有过去分词的句子，每一个过去分词都用作形容词：
+America is a developed country.
+I found that dog killed in a car accident.
+The frustrated student needs help.
+I want the report completed before midnight.
+He is totally depressed.
+They are all frustrated.
+The car driven by that young man is a Cadillac.
+This book, read by almost every one, was written by Charles Dickens.
+This is still an unrealized dream.
+Are you interested in music?
+I am really surprised to meet you.
+I was excited by his arrival.
+The girl dressed in white is from Japan.
+A depressed person needs love from others.
+Millions got killed in the Second World War.
+He is a troubled child who needs advice.
+I have a broken leg.
+Broken glass is all over the place.
+千万注意，我们不可以轻易乱用过去分词，以下的句子都是错的：
+＊He is suffered.
+＊This article will be appeared in the next issue of Science.
+正确的说法是：
+He suffers.
+This article will appear in the next issue of Science.
+【练习四十五】
+将以下的中文句子译成英文：
+我对音乐有兴趣。
+这部人人都看过的电影是在好莱坞制作的。
+他来自一个破碎的家庭。
+这个国家的法律已经崩溃（break down）了。
+我因这个消息而感到兴奋。
+我们应该帮助那位沮丧的学生。
+三个人死于（get killed）这场车祸。
+这是一个充满了困惑的学生。
+他是一个很有趣的人。
+【练习四十六】
+填空，全部用现在分词或过去分词：
+1. He is totally          (confuse).
+2. I am          (interest) in seeing that movie.
+3. This movie is really          (excite).
+4. That is a          (break) promise.
+5. He has a          (break) arm.
+6. Their marriage was          (break) up.
+7. Justice is still not a          (realize) dream.
+8. He is a          (depress) person.
+9. The bicycle          (ride) by the young kid is mine.
+10. I do not like to see any person          (injure).
+11. I was very much          (surprise) to hear that news.
+12. His statements are          (encourage).
+13. The man          (talk) about Hitler is a professor.
+14. The man          (pilot) the airplane is quite young.
+15. The company         (manage) by Mr. Lee is getting better and better.
+16. Poor John now has a          (break) heart.
+17. There are boys and girls          (dance) in the garden.
+18. The          (steal) jacket has been found.
+19. The boy          (laugh) there is not my son.
+20. He has a          (smile) face.
+21. This is indeed very          (excite).
+22. This song,          (hear) by almost everyone, was written by me.
+23. I don't like the song          (write) by the Beatles.
+24. She is a          (care) woman.
+10§3 不定词（Infinitives）作为形容词和副词
+　　不定词可以用作名词，也可以用作形容词，以下都是不定词用作形容词的例子，要注意的是不定词不会放在名词的前面：
+You don't have the right to talk so loudly.
+He is to blame.
+To see is to believe.（To see是名词，to believe是形容词）
+My job is to teach poor kids to learn.
+We all have the duty to serve our country.
+He has a talent to sing.
+I don't have time to play.
+He is a person to be liked by us all.
+This is a book to be read by all students.
+He has no money to spend.
+This is not a good place for kids to grow up in.
+This law is to protect innocent citizens.
+I am glad to see you.
+He is ready to start a war.
+He is rich enough to buy the entire building.
+They are afraid to die.
+He has no right to kill anyone.
+John is too weak to do this job.
+My mother is too old to drive a car.
+It is easy to fall behind in school.
+【练习四十七】
+将以下句子改成英文：
+我们都有纳税的义务。
+我们都有保持缄默（remain silent）的权利。
+他有游泳的天才。
+我已无钱可花。
+我无处可去。
+他太累了，不能开车了。（too.....to.....）
+我很高兴看到你。
+他够聪明，可以进入大学。（enough.....to.....）
+我的工作是教小孩英文。
+我看到你，感到很意外。（surprised to......）
+我们有很多可谈的事。
+他没有可以交谈的朋友。
+
+第十一章 词组（Phrases）和子句（Clauses）
+　　请看以下的句子，特别注意划线的字群：
+Understanding English is easy.
+I want you to work hard.
+Peter, who has been to England, speaks good English.
+I told him that I was going away.
+Understanding English和to work hard有一共同特色，他们都没有主词，也没有动词，这种字群，叫做词组（phrase）。
+Who has been to England和I was going away中，内部都有主词和动词，这种字群，叫子句（clause）。
+由于我们已经对词组很熟悉，我们在这里不再讨论，而我们在这一章将多多介绍子句的用法。
+11§1 问题型式的名词子句
+假如我们说〝我不知道他住在哪里〞，或者〝他究竟住在哪里仍是个谜〞，我们就可以用这种问题型式的名词子句，每一个名词子句都要用who, where, whether, which等来开始。以下是典型的例子：
+I don't know where he came from.（我不知道他来自何处。）
+Whether or not he is an American is still a secret.（他是否是个美国人仍然是个秘密。）
+I will find out where he is living.（我要找出他住在哪里。）
+I can not remember whether he smokes or not.（我不记得他是否吸烟。）
+Please let me know how old he is.（请让我知道他多大年纪。）
+Kindly tell me what you really need.（请让我知道你需要什么。）
+You have to decide which book you want to buy.（你应该决定买哪一本书。）
+Do you know where he is from?（你知道他是从哪里来的？）
+Do you know who he is?（你知道他是谁吗？）
+Please ask your brother whether he is coming or not.（请问你的兄弟他会不会来。）
+When she is coming remains a puzzle.（她何时来仍然是个谜。）
+I don't know what he is interested in.（我不知道他的兴趣何在。）
+I don't understand what he is talking about.（我不知道他在谈什么。）
+Do you know whose bicycle this is?（你知道这辆脚踏车是谁的吗？）
+Do you know which country Hawaii belongs to?（你知道夏威夷属于哪一个国家吗？）
+You should ask your mother where you were born.
+（你应该问你的母亲你在哪里生的。）
+虽然每一个名词都有问题的意义，我们却不能在名词子句中用问句的型式，因为毕竟这个名词子句仅仅是一个子句而已，它的结尾并不是〝？〞。
+因此以下的句子都是错的：
+＊I don't know where did he come from.
+＊I will find out how old is he.
+＊Kindly tell me what do you need.
+＊You have to decide which book do you want to buy.
+＊When is he coming remains a puzzle.
+【练习四十八】
+将以下的中文句子译成英文：
+我不知道你是谁。
+请告诉我你是否是美国人。
+我不记得你是否喝咖啡。
+请问你的姊姊她去年是否去过日本。
+你知道他是谁吗？
+他从哪里来的是一个谜（puzzle）。
+我要找出他哥哥会不会游泳。
+我知道他为何如此悲伤。
+你知道玛丽什么时候来吗？
+你知道发生了什么事吗？
+我知道天空为什么是蓝的。
+请告诉我你去年去哪里工作的。
+你知道他在谈什么吗？
+我不懂他的问题是什么。
+【练习四十九】
+改错：
+Please tell me why is he so sad.
+I do not know where is she from.
+Please tell me how many people are there in this house.
+Let me know how old are you.
+Is he a Japanese is a mystery.
+Do you know who is the president of the United States?
+May I ask you which kind of coffee do you like?
+I can not remember how old am I?
+What is he talking about is unclear to me.
+Do you know why is he coming?
+【练习五十】
+选择适当的代名词，如whether, which, what, who, how, when, why等填入下面句子的空格（有时会有多种正确的填法）：
+1. I don't know           book you bought.
+2. Do you know           he is from?
+3. Please ask him           he drinks tea or not.
+4.           he is thinking about is well known to all of us.
+5. Let me guess           old you are.
+6. May I ask           you are so sad?
+7. I don't know           he is.
+8. Do you know           house this is?
+9. This is not           I want.
+10. I don't care           you want to say.
+11§2 以that开始的名词子句
+现在我们先试着翻译以下的句子：
+地球是圆的是众所周知的事。
+一种直接了当的翻译是：
+＊The earth is round is known to everyone.
+遗憾的是，以上的句子是不对，我们必须加一个that到名词子句里去，以下的翻译是正确的：
+That the earth is round is known to everyone.
+我们再来翻译一个中文句子：
+我要求他一定要用功念书。
+直接了当的翻译可能像下面的：
+＊I demand he must work hard.
+这是错的，我们应该加一个that在这个名词子句的前面。以下的翻译才是正确的：
+I demand that he must work hard.
+虽然我们常看到这种that被省略的情形，我们仍希望大家知道，为保险起见，最好不要省掉that。以下是一些例子：
+That the sun rises from the west is wrong.（太阳从西方升起是错的）
+That a lot of Jews were killed during the Second World War is now a historical fact.
+（大批犹太人在第二次大战中被杀是历史上的事实）
+I didn't know that he is such a diligent student.（我不知道他是如此勤快的学生）
+I demand that you go away.（我要求你离开）
+I suggest that you go swimming every morning.（我建议你每天早上游泳）
+That we should all respect our parents should be taught to our kids.
+（我们该教孩子们尊敬父母）
+I don't think that he is a good athlete.（我不认为他是一个好运动员）
+Do you think that she is a good actress?（你认为她是一个好的演员吗？）
+That he can speak good English helps him.（他能说很好的文，这点对他很有帮助）
+I propose that we get married.（我建议我们结婚）
+Let us always remember that there are a lot of poor people in the world.
+（我们永远记住世界上有很多穷人）
+Never forget that we should always love one another.（不要忘记我们应该互相友爱）
+I am surprised to find out that he is a Catholic.（我很惊讶地发现他是个天主教徒）
+That we lost the game made all of us frustrated.（我们输了，这件事令我们大感沮丧）
+I can hardly believe that his English is so good.（我不能相信他的英文如此之好）
+【练习五十一】
+请将that加到以下句子去：
+1.＊I told you you must leave.
+2.＊I am glad you are here now.
+3.＊He is an American is unknown to us.
+4.＊Can you imagine he is Chinese?
+5.＊Do you think he is a Chinese?
+6.＊Hitler was defeated in the Second World War is an important event in the history of mankind.
+7.＊I do not think he is a bad student.
+8.＊I am surprised to know she is from Japan.
+9.＊It is hard to imagine he does not have a high school diploma.
+10.＊Do you believe he is innocent?
+11.＊I demand my students they work hard.
+12.＊The sun rises in the east is a fact.
+【练习五十二】
+将以下句子翻译成英文：（用that）
+1. 我不相信他是我的哥哥。
+2. 我劝（advice）他到美国去。
+3. 你相信地球是圆的吗？
+4. 我告诉他他一定要读这本书。
+5. 我忘记了你是个小孩。
+6. 你能相信我会讲英文（speak English）吗？
+7. 他没有来令我生气（make me angry）。
+8. 我认为他是个好人。
+9. 不要忘记世界上有很多穷人。
+10. 我知道他教英文。
+11. 我从不知道他如此聪明。
+12. 我知道他不能来。
+13. 我希望他能来。
+14. 你相不相信他在台湾长大的？
+15. 我无法决定他该不该念大学。
+16. 你告诉我他去年到美国了。
+17. 这位老师不知道我的爸爸也是老师。
+18. 我要问他明天会不会来我家。
+19. 你知道这火车到台北吗？
+20. 请告诉我你会不会说英文。
+11§3 形容词子句（Adjective Clauses）
+　　在上二节，子句都是用作名词的。在这一节，我们要介绍一种新的子句，那就是形容词子句。请看以的中文句子：
+　　位在那房子里的人是我的哥哥。
+我们不能直接了当地将以上的句子译成：
+＊The person live in that house is my brother
+　　第一种办法是将live in the house改成living in the house，也就是说，我们可以将那个中文句子译成下列的形式：
+The person living in the house is my brother.
+　　以上的句子中，living in the house是一个词组，我们可以将这个词组改成子句。因此，以下的翻译是正确的：
+The person who lives in the house is my brother.
+　　在以上的句子中，who lives in the house是一个子句，因为它有主词，也有动词。他的作用是形容The person，所以是一个形容词子句。
+　　由于形容词子句永远都是在形容一个名词，因此我们在这个子句中必需有一个代名词（pronoun），像who, when, where, whom等。
+　　以下是一些形容词子句的例子，读者应该弄清楚每一个形容词子句所形容的名词。
+The people who live in the country are often very healthy.
+（住在乡下的人常常很健康）
+Do you like people who always talk about themselves.
+（你喜欢那些永远讲他自己的人吗？）
+The house which we bought last year is located beside a lake.
+（我们去年买的房子座落在湖边）
+I met your uncle who has a red car.（我遇见了你的有红色汽车的叔叔）
+Do you know the author who wrote this novel?（你知道写这本书的作者吗？）
+I have been to the house where Charles Dickens lived.
+（我曾去过狄更司住过的房子）
+I don't remember the year when the Second World War broke out.
+（我不记得二次世界大战哪一年爆发的）
+Let me know the date when you got married.（让我知道你是哪一天结婚的）
+I bought the car which Michael Johnson drove.（我下了麦克强森开的车子）
+The storm which hit India last week is very strong. 
+（上周袭击印度的暴风雨是很强烈的）
+I thank all of you who helped me.（我要谢谢所有帮助过我的人）
+The girl whom you met last night works in a library.
+（你昨晚碰到的女孩子在一个图书馆里工作）
+The students whom you taught like you very much.（那些你教过的学生很喜欢你）
+I like the professor who taught me English.（我喜欢那位教我英文的老师）
+In this country, there are a lot of students who go to school by bus.
+（这个国家有很多学生搭乘公交车上学）
+Have you heard about the murder case that occurred last night?
+（你有没有听到有关昨天晚上发生的谋杀案？）
+Those who love others will be loved by others.（爱人者人恒爱之）
+He is a person whom everyone is talking about these days.（他是大家最近在讨论的人）
+The party which I went to is interesting.（我去参加的宴会很有趣）
+The professor whom I spoke to is very friendly.（这位我和他谈话的教授很和善）
+Russia, which this island belongs to, is a big country.
+（这个岛屿属于俄国，俄国是一个大的国家）
+　　请注意以上最后的四个句子，它们有一个共同的特性，那就是子句的最后一个字是一个介系词（preposition），我们先看第一个句子：
+He is a person whom everyone is talking about these days.
+这一句话可以分成两个句子来讲
+He is a person.
+Everyone is talking about him these days.
+因此我们将这两句话合并而成为
+He is a person whom everyone is talking about these days.
+在正式的英文中，我们必须说：
+He is a person about whom everyone is talking these days.
+再看下一句：
+The party Which I went to is interesting.
+这句话也可以分成两句来讲：
+The party is interesting.
+I went to the party.
+因此我们将两个句子合并为一个句子：
+The party which I went to is interesting.
+正式的讲法应该是
+The party to which I went is interesting.
+　　同理，在正式英文中，其它二个名词子句中的介系词，也应该放到前面去：
+The professor to whom I spoke is very friendly.
+Russia, to which this island belongs, is a big country.
+我们还有一点必须在此指出，请看以下错误的句子：
+＊I like the book which you gave it to me.
+　　以上句子中的it是多余的，因为gave的受词是which，不需要加it。
+　　以下的句子都是错的：
+＊He is the person whom everyone loves him.
+＊He is not the person whom you saw him.
+【练习五十三】
+将以下句子译成英文：（用形容词子句）
+1. 我见到那位开快车的孩子。
+2. 我们在讨论那些有问题的学生。
+3. 每天游泳的人一定很强壮。
+4. 开车送我去火车站的人是我的学生。
+5. 你所看到的女孩子是我的妹妹。
+6. 我喜欢你所写的诗。
+7. 你们谈到的那位教授是我的哥哥。
+8. 你们所听到的音乐是蓝调韵律（R & B）。
+9. 我喜欢那些有图画的书。
+10. 我不知道林肯在哪一个城市出生的。
+11. 我很喜欢你送我的CD。
+12. 我昨晚看的电影很无聊（boring）。
+【练习五十四】
+改错：
+1.＊I saw the man who you talked about.
+2.＊He is not the man who we met.
+3.＊Those cry very often are usually not liked.
+4.＊I like to talk to people which are friendly.
+5.＊I enjoy reading the book which you gave it to me.
+6.＊Do you know the person which every one knows?
+7.＊Peter is a good singer practices singing everyday.
+8.＊Do you know Peter who we talked about?
+9.＊Did you see the person who I spoke to?
+10.＊I have seen the person whom we talked about him.
+【练习五十五】
+将代名词如when, where, which等填入空格：
+1. He is the man            is very good in English.
+2. I don't know the person            you talked to.
+3. This is not the house            the president lives.
+4. I do not like any one            cries frequently.
+5. Did you read the book            you bought last month?
+6. Do you know the year            the Second World War ended?
+7. Do you know that student            I taught?
+8. I have no idea about the person            you are talking about.
+9. Do you know            he is talking about?
+10. Do you know            dress it is?
+
+第十二章 冠词（Articles）
+　　假设我们要翻译以下的中文句子：
+他是聪明的孩子
+也许我们会将以上的句子翻译成以下的句子：
+He is clever baby.
+　　这种翻译是错的，boy的前面，必须有一个冠词，英文冠词只有两个：a和the，在这个例子，我们应该加a，因此正确的翻译是：
+He is a clever boy.
+我们现在再看以下的中文句子：
+他是昨天来看我的孩子。
+以下的翻译是错的：
+He is boy who came to see me yesterday.
+为什么错呢？仍然是在于boy前面没有冠词，这次我们必须加the，正确的翻译是：
+He is the boy who came to see me yesterday.
+　　一般来说，英文句子的单数名词前面都会有冠词，没有冠词是例外，以下的句子都是错的：
+He saw cat.
+Swimming is good exercise.
+Java is computer language.
+King of England died last night.
+He is professor who taught me English.
+正确的句子是：
+He saw a cat.
+Swimming is a good exercise.
+Java is a computer language.
+The King of England died last night.
+He is the professor who taught me English.
+　　我们知道大多数的名词前面要加冠词，但究竟要加a，还是the呢？我们在下一节讨论。
+12§1 a和the之不同用法
+　　a和the最大的不同，在于a后面的名词不是指定的，而the后面的名词是有所指的。我们不妨看以下的两个句子，他们都是正确的，但意义却不同。
+John is a boy.
+John is the boy.
+〝John is a boy.〞的意思是〝约翰是一个男孩〞，而〝John is the boy.〞的意思就完不同了，我们一定曾经提到过某一个男孩子，而约翰就是那个男孩子。可能的情形是：There is a boy who is very good in mathematics. John is the boy.
+　　我们就以〝国王〞为例，如果我们泛指一般的国王，我们可以用复数，也可以用单数，但必须用a，以下是一些例子：
+Kings are also human beings.
+Even a king will die sooner or later.
+Have you ever met a king ?
+I do not like to be a king.
+He is an ordinary person, not a king.
+　　如果我们的国王是指某一个特定的国王，就必须用the，举一个例子；如果我们说〝国王万岁〞，我们当然是指我们的国王，因此〝国王万岁〞的翻译就是
+Long live the King.
+以下的例子都是正确
+Here comes the King.
+The King is a popular person in our country.
+Even the King of England can not come in.
+读者应该了解，同类型的句子，可以用a，也可以用the，但意义是完全不同的，请看以下的句子：
+He is not a boy who would cheat others.
+意思是：
+他不是那种会欺骗别人的男孩子。
+再看以下的句子：
+He is not the boy who cheated in an examination yesterday.
+他不是昨天在考试中舞弊的男孩。
+再看以下的句子：
+He is a King.
+意思是〝他是一个国王〞。
+如果说
+He is the King.
+意思就完全不同了，这句话的意思是〝他是我们国家的国王〞。
+　　请注意，世界上国王有好多个，如果我们仅仅说他是一个国王，当然没有指定哪一个国家的国王，就用a king，如果我们用the King意思当然指我们共识中的国王。这时的King中的K必须大写，以示尊敬。
+我们再举一个例子：
+Please open a window.
+是指请开一扇窗子，随便哪一扇都可以。
+Please open the window.
+就不同了，说这句话的人和听这句话的人一定有一个共识，〝the window〞一定是指某一扇特定的窗子，也许这间房子里只有一扇窗，也可能他们谈话中曾经提到某一扇窗，〝the window〞就是指那一扇窗。
+　　我们可以再举一个例，假如我们说，〝我们需要一场大雨〞，我们说
+We need a heavy rain
+如果我们说，〝这场雨好大〞，我们说
+The rain is really heavy.
+有了这个基本观念以后，我们就很容易了解以下句子中，为什么要用the：
+I am going to the train station.
+The post office is quite near.
+Where is the library?
+根据这种原则，当我们提到地球，月亮这种独一无二的东西，就必须用the。
+the earth
+the sun
+the moon
+the universe
+　　除此以外，the还有一个特殊的用途，我们可以在the的后面加一个形容词，使这两个字变成了一个名词，举例来说：
+the rich＝富人
+the poor＝穷人
+the weak＝弱者
+the deaf＝聋人
+the blind＝盲人
+请注意，以上的名词是复数：
+The rich always get richer.
+The poor are getting poorer.
+The blind are often very sensitive to sounds.
+以下是一些用a和the的例子，读者应设法了解句子中为何有时用a，有时用the。
+He is a student.
+He is the student who can swim very well.
+I like to be a teacher.
+He is the teacher who taught me English.
+The president of the United States in an important person in the world.
+I have a son and a daughter.
+I have two sons. This is the son who will be a doctor.
+I want to be a teacher who is loved by students.
+He is not the person whom we talked about.
+There is a boat in the river.
+This is the boat which we can use.
+The rain is going to stop tomorrow.
+We need a good rain.
+The weather is really bad.
+Is there a train station near us?
+Where is the station?
+Do you know where the post office is?
+There is a post office inside that building.
+The library looks so good.
+The rich should pay more taxes.
+We should pay more attentions to the poor.
+The blind can also study computer science now.
+The earth is round.
+The sun never sets in the British Empire.
+Do you think we can reach the moon?
+How large is the universe?
+练习【练习五十六】
+将下列中文句子译成英文：
+他是一个好学生。
+他是那位老师都喜欢的学生。
+我要做总统。
+这是总统。
+请打开一扇窗。
+中华民国的总统将于明年访问美国。
+我要做一个好的工程师。
+他是那位我们常常谈到的老师。
+Java是一个新的计算器语言。
+我有一只狗。
+他是获大奖的教授。
+火车站在哪里？
+请告诉我邮局的地址。
+这里有邮局吗？
+富人常住在城里。
+盲人可以用计算机。
+太阳在东边升起。
+宇宙是非常大的。
+为什么我们白天不能看到月亮？
+总统几岁？
+【练习五十七】
+将适当的冠词填入下列的空白：
+1. He is          student who went to see you.
+2. There is          river in this area.
+3. I don't want to be          teacher.
+4. He wants to become          doctor.
+5. No one wants to be          beggar.
+6. Please open          door which opens to the hall.
+7. UNIX is          computer operating system.
+8. WINDOW is          only operating system invested by Microsoft.
+9. I have          dog and two cats.
+10. She is          teacher who got many prizes.
+11.          earth is not flat.
+12. Is there          hotel around here?
+13. Where is          train station.
+14. I really like          library.
+15. Please give me          glass of water.
+16.          wind is getting stronger and stronger.
+17. He is          friend of mine.
+18. It is hard for          poor to go to colleges.
+19. He is          swimmer who swam across the English Channel.
+20.          weather is getting colder and colder.
+21. This is          book which I bought yesterday.
+22. I don't like to be          professor.
+23. I am going to take          vacation next month.
+24. John will become          basketball player.
+25. I ride          bicycle to work every morning.
+12§2 a和an的用法
+　　在英文里，a有时必须用an代替，凡是一个字一开始的发音是元音的话，那么前面就不能用a，而必须用an。例子：
+an apple
+an answer
+an egg
+an eye
+an island
+an idea
+an old lady
+an odd case
+an umbrella
+　　请注意，用an与否并不是完全和字母有关，而是和发音有关。举例来说，u虽然是一个元音字母，但是我们却说a unit，而不能用＊an unit，因为unit的一开始发音并非元音。 
+　　其它类似的例子有：
+a useful car
+a university
+a uniform
+a one-sided opinion
+反过来说，有些字并不以元音开始，但是却必须用an，因为这些字的第一音节是元音发音，例子：
+an honest person
+an hour
+【练习五十八】
+填入a或an
+1. He is          English Professor.
+2. This is          easy job.
+3. He is just          ordinary person.
+4.          friend in need is           friend indeed.
+5. Give me          hint.
+6. I have          American friend.
+7. I will become         engineer.
+8. Is he          honest boy?
+9.          hour later, he went away.
+10. Is this          university library?
+12§3 冠词使用时的例外
+　　在以上的两节，我们好像说冠词的使用是有一定规则的，其实不然，例外也不少。在很多情形之下，冠词是要省略的，更麻烦的是，连省略冠词的规则都有例外，应该省的却又不省了。
+　　第一个有关冠词的特殊用法是这样的，假设我们要说〝男生通常不喜欢弹钢琴〞，我们不能说
+Boy does not like to play the piano.
+而要说
+Boys do not like to play the piano.
+这时，Boys的前面，是没有冠词的，理由很简单，我们不能加a，因为boys是复数，我们也不能加the，因为boys并没有指定哪一个男孩，也没有指定哪一种男孩。类似的例子有：
+Girls are more diligent than boys.
+When spring comes, flowers start to bloom.
+Dogs are often close to their masters.
+Cats are often quite lazy.
+Men eat more than women.
+Professors are all very smart.
+　　第二个规则有关所谓不可数名词，很多名词是可以数的如：
+a cup, two cups
+a boy, three boys
+a teacher
+a student
+a boat
+an airplane
+a glass of water
+a cup of tea
+　　可是很多名词是不可数的，以下这些名词都是抽象的，因此不可数
+time
+love
+hatred
+pain
+joy
+sadness
+kindness
+wisdom
+hope
+patience
+　　这些抽象名词的前面是不要加冠词的，例子如下：
+Time flies.（时间过得很快）
+We can not live without love.
+Let there be no hatred.
+We must be able to endure pain.
+Loving others creates joy.
+There is sadness in his voice.
+Can you feel his kindness?
+He has wisdom.
+There is hope among us.
+I am losing patience.
+　　以上的例子，乃是泛指的事物，如果特定的抽象名词，仍要加冠词。例如：
+This is the time to cry.
+Do you feel the pain?
+There is a hatred towards was in our society.
+Everyone can feel the joy of being loved.
+We just can not avoid the sadness of losing some loved ones.
+He does have the patience to listen to long talks.
+It is a virtue not to steal.
+　　还有一些不可数的名词，是所谓的物质名词，像
+water
+fire
+air
+metal
+tea
+coffee
+bread
+butter
+　　如果这些物质名词泛指一般的东西，前面是不要加冠词的，例如
+Drinking water is important.
+Don't play with fire.
+We need air to breath.
+There is metal in this device.
+I don't drink tea.
+I like coffee.
+Father brings bread and butter home every day.
+　　一旦物质名词指特定的东西，前面就要加冠词，例如：
+The water in this city is polluted.
+There was a fire near our home last night.
+The air in this town is getting worse and worse.
+Copper is a metal.
+The tea from India is very popular in England.
+　　专有名词，一般说来都不要加冠词的：
+Mary is from Canada.
+John got married last month.
+Taiwan is an island.
+England is in Europe.
+France is a nice country to visit.
+Russia is a large country.
+Park Street is the main street in this city.
+Go to Taipei first.
+Sun Moon Lake is a beautiful lake.
+January is often very cold here.
+Sunday is a day for resting.
+Spring is the best season.
+Mt. Everest is in Europe.
+President Kennedy died when he was young.
+King George was considered a mad king.
+Queen Elizabeth visited Australia recently.
+　　可惜的是，英文中专有名词仍有要加the的，我们将试着将这些例外写成规则，但这种规则一定挂一漏万，读者如要知道何种情况要加冠词，何种情况不加冠词，惟一的办法是多读英文的文章，慢慢地就会了解什么情形该用冠词，什么情形不用冠词。
+　　哪些专门名词前面仍要加冠词the呢？
+　　(1) 河流，海洋，沙漠，海峡，海湾等等专有名词的前面都要加the。
+the Hudson River （赫德森河）
+the Rhine River （莱茵河）
+the Yellow River （黄河）
+the River Thames （泰唔士河）
+the Amazon River （亚马孙河）
+the Pacific Ocean （太平洋）
+the Red Sea （红海）
+the Mediterranean Sea （地中海）
+the Baltic Sea （波罗的海）
+the Atlantic Ocean （大西洋）
+the Sahara Desert （撒哈拉大沙漠）
+the Gobi Desert （戈壁大沙漠）
+the Taiwan Straits （台湾海峡）
+the English Channel （英吉利海峡）
+the Manila Bay （马尼拉海湾）
+the Bay of Tokyo （东京湾）
+the Persian Gulf （波斯湾）
+　　(2) 国家的名词中如有of时，要加the
+the United States of America
+the Union of Soviet Socialist Republics
+the Republic of China
+　　(3) 非常言式的名称，也要加the
+the World Bank （世界银行）
+the United Nations （联合国）
+the Red Cross （红十字会）
+the Catholic Church （天主教会）
+　　(4) 帝国，朝代，时代等等专有名词的前面，要加the
+the British Empire （大英帝国）
+the Ｏttoman Empire （奥图门帝国）
+the United Kingdom （联合王国）
+the Byzantine Era （拜占庭时代）
+the Chin Dynasty （秦朝）
+the Victoria Era （维多利亚时代）
+the Hanover Dynasty （汉诺威王朝）
+The Renaissance Era （文艺复兴时代）
+the Dark Ages （黑暗时代）
+　　(5) 如果提到〝全体〞，就要加the
+the Wangs （王家）
+the Kennedys （肯尼迪家族）
+　　请注意，Wang和Kennedy都是姓，如果要指全家人，必须在姓氏的后面加s，前面加the。
+the Chinese （中国人）
+the Americans （美国人）
+the Africans （非洲人）
+　　我们说过，一般的专有名词是不要加冠词的，但是有很多其它的名词前面也不要加冠词，以下是一些规则：
+学科一概不加冠词
+I do not like mathematics.
+He hates geometry.
+She teaches us history.
+三餐一概不加冠词
+Did you have lunch.
+Missing breakfast is bad for your health.
+We have had dinner already.
+　　千万记住，如果我们的名词指定某一个特定的时候，就仍要加冠词，以下是一些例子：
+I had a happy Christmas lunch with my family.
+The dinner you treated me last night was really good.
+Did you have a big breakfast?
+假如我们说〝上学〞，〝去教堂〞等等，都不要加冠词，例如
+I went to church yesterday.
+He goes to church every Sunday.
+She is going to college this summer.
+Did you go to school last week?
+　　但是如果我们说的是指定的教堂，学校等等，仍要加冠词，例如：
+I went to the church at the corner of Park Street yesterday.
+The church which I went to when I was young is still there.
+I did not go to the college which my father went to.
+语言不要加冠词
+English is easy to learn.
+There are also grammatical rules in Chinese.
+Can you speech Japanese?
+　　但是，我们必须注意语言有另一种表示的方法，例如：
+The English language is easy to learn.
+There are grammatical rules in the Chinese language.
+运动一概前面不加冠词
+Do you play tennis?
+I can not play basketball.
+I really love soccer.
+动名词前面不加冠词，例如
+Swimming is good for you.
+I like playing tennis.
+Do you enjoy playing piano?
+【练习五十九】
+以下的句子都有冠词用法的错误，请改正这些错误：
+The Girls are often good in learning languages.
+The dogs always chase the cats.
+Do you have the time?
+I have not had a water for two hours.
+There is no life without the pain.
+The love is the most important thing in one's life.
+He has the wisdom.
+I am losing the patience.
+This is not time to cry.
+Pain due to losing a loved one is hard to endure.
+Joy being a father is really great.
+Being honest is virtue.
+Speaking the truth is good policy.
+Can you feel sadness of his?
+We need the air to live.
+I do not drink the coffee. I drink the tea.
+We Chinese eat the rice every day.
+Water in this area is very clean.
+There was fire in the next street last night.
+Fire last night killed three kids.
+Coffee which you are drinking is from South America.
+Mary is from the Canada.
+The China is a large country.
+Republic of China was Founded in 1911.
+Where is the England?
+Is the Russian in Europe.
+The President Lincoln is a great person.
+The King George was a mad king.
+Yellow River is a long river.
+Have you been to Gobi Desert?
+Manila Bay is very beautiful.
+It is hard to cross Atlantic Ocean by a small boat.
+Can you swim across English Channel?
+United States of America is a large country.
+United Nations and Red Cross often work together.
+When did Ottoman Empire end?
+British Empire was large before.
+Catholic Church is one of the oldest organizations in the world.
+This cup was made in Ming Dynasty.
+Renaissance is a very important era for mankind.
+We should not go back to Dark Ages.
+Wangs did not invite me to their house.
+I do not like Kennedys.
+Chinese pay great attention to education.
+I do not like the physics.
+Are you interested in the chemistry?
+Did you have the lunch?
+Let us have the dinner together.
+I always have a breakfast with my family.
+I had big dinner last night.
+Dinner my mother cooked for me was delicious.
+I go to the church every Sunday.
+He does not like to go to the school.
+Did you see beautiful church in the next street?
+The English is so hard for me.
+Do you speak the English?
+Do you play the tennis?
+The swimming is good for you.
+I like the walking in the woods.
+I practice the baseball every week.
+【练习六十】
+在以下的空白处加入冠词，如不需要冠词，就让它空白：
+1.          boys usually do not like to sit still for long.
+2. I love to have          cup of coffee.
+3. There is          love between us.
+4. Can you feel          love from you mother?
+5.          joy for having a new baby is really great.
+6. Do you have          time for a walk?
+7. We can not live without          love.
+8. I have not drunk          wine for a long time.
+9. Do you have          wisdom to distinguish bad persons from good persons?
+10. This is          good dinner.
+11. I did not have          dinner.
+12.          joy being          mother is great.
+13.          Running is          good practice.
+14.          sadness due to the death of his mother really hurts him.
+15. We need          water to live.
+16. We can not live without          air.
+17. I do not drink          coffee.
+18.          fire with occurred last night destroyed my house.
+19.          coffee which you are drinking is very light.
+20.          Republic of China is in Asia.
+21. Where is          Russia?
+22. Is          France in Africa?
+23.          President Kennedy was liked by most American before be died.
+24.          Amazon River is a long one.
+25. Have you ever been to          Tokyo?
+26. Have you ever been to          Tokyo Bay?
+27. There are more than one hundred countries in          United Nations.
+28. This is          Ming Dynasty porcalain.
+29.          Wangs invited us to a dinner party.
+30. I do not like          mathematics.
+31.          spring is a pleasant season.
+32. I had          pleasant evening with my friends.
+33.          breakfast which I had this morning was too light for me.
+34. It is not easy to study          English.
+35. I did play          basketball yesterday.
+36.          swimming is a good exercise.
+37. There should be          chicken in every pot.
+38. It is          good idea to eat lightly.
+【练习六十一】
+将以下的句子译成成英文：
+狗会叫（bark）。
+猫会抓老鼠。
+有时候（sometimes），痛苦是好的。
+我不喝茶。
+感觉到被爱是很重要的。
+说实话令人快乐。
+我们需要爱。
+他是一个中国人。
+中国人喜欢喝茶。
+昨夜，城里有一场火。
+约翰来自美国。
+法国在哪里？
+我喜欢林肯总统。
+黄河不是黄的。
+红十字会已经有一百年了（one hundred years old）。
+明朝是一个重要的朝代。
+你喜爱数学吗？
+我今天早上没有吃早饭。
+我已吃过午饭。
+我昨天没有去教堂。
+我今年秋天要上大学。
+游泳使我强壮。
+
+第十三章 形容词的比较级
+　　如果我们要翻译〝他比较老〞，我们不能说
+＊ He is more old.
+而一定要说
+He is older.
+为什么呢？这是因为英文里面的形容词有所谓的比较级规则。在下一节，我们讲一些最基本的规则。
+13§1 最基本的规则
+　　首先，我们要说明英文形容词有三个等级：原级、比较级和最高级，最基本的规则是根据音节的多少来分的。一般来说，单音节的形容词在字后面加er，就变成了比较级，加est就变成了最高级，而双音节，或双音节以上的形容词，比较级是在字前面加more，最高级则是在字前面加most，举例来说，old, smart, strong, weak, high, low等等都是单音节的形容词，他们的变化如下：
+原级
+比较级
+最高级
+old
+older
+oldest
+smart
+smarter
+smartest
+strong
+stronger
+strongest
+weak
+weaker
+weakest
+high
+higher
+highest
+low
+lower
+lowest
+　　以上的形容词，都是单音节的，以下的例子都有关双音节的形容词：
+原级
+比较级
+最高级
+difficult
+more difficult
+most difficult
+delicious
+more delicious
+most delicious
+beautiful
+more beautiful
+most beautiful
+correct
+more correct
+most correct
+stupid
+more stupid
+most stupid
+significant
+more significant
+most significant
+有一个规则必须注意，我们不能将more和er混在一齐用，以下的例子都是错的：
+He is more older than I.
+He is more taller than his brother.
+正确的句子是：
+He is older than I.
+He is taller than his brother.
+【练习六十二】
+写出以下形容词的比较级：
+small
+slow
+intelligent
+expensive
+tall
+short
+important
+cheap
+famous
+cold
+fast
+careful
+colorful
+long
+dark
+bright
+13§2 特殊的比较级规则
+　　在上一节，我们说明了最基本的规则，那就是单音节形容词加er或est，双音节的形容词前面加more或most。但以下就是这些基本规则的例外。
+单音节形容词的字是e，就直接加r或st：
+原级
+比较级
+最高级
+large
+larger
+largest
+late
+later
+latest
+nice
+nicer
+nicest
+wise
+wiser
+wisest
+
+形容词的字尾是y，而前一个子母是一个子音，则除掉y，加上ier，或iest：
+原级
+比较级
+最高级
+lucky
+luckier
+luckiest
+happ
+happier
+happiest
+pretty
+prettier
+prettiest
+dry
+drier
+driest
+easy
+easier
+easiest
+
+单音节形容词的字尾是子音，前一音是一个元音，则字尾必须重复一次，再加er或est：
+原级
+比较级
+最高级
+fat
+fatter
+fattest
+hot
+hotter
+hottest
+wet
+wetter
+wettest
+big
+bigger
+biggest
+
+完全不规则的变化：
+英文中，有几个特殊的字，他们的比较级完全没有规则，以下是一些例子，读者必须记住：
+原级
+比较级
+最高级
+good
+well
+better
+best
+bad
+worse
+worst
+many
+much
+more
+most
+【练习六十三】
+写下以下形容词的比较级：
+cute
+wide
+early
+happy
+heavy
+thin
+easy
+hot
+wise
+large
+good
+bad
+many
+13§3 比较形的用法
+　　大多数比较级句子里会有than，以下是一些例子：
+I am older than he.
+His English is better than mine.
+San Francisco is more beautiful than New York.
+His car is cheaper than your car.
+He is the most diligent student in his class.
+I like apples more than oranges.
+He has more money than his brother.
+He is stronger than his brother.
+　　必须注意的是以下的句子是错的：
+I am older than him.
+She is smarter than me.
+　　为什么错了呢？因为原来句子应该是：
+I am older than he (is).
+She is more smart than I (am).
+　　习惯上的is和am都省略掉的，由以上的解释可以看出，than后面的句词应该是主词，而非受词。
+　　以下的错误，也请特别注意：
+My head is larger than your.
+正确的句子是：
+My head is larger than your head. 
+或者       My head is larger than yours.
+请看以下几个错误的句子：
+My house is larger than your.
+The temperature of this city is higher than San Francisco.
+The height of Himalayas is greater than Mt. Fuji.
+My bicycle is older than his.
+正确的句子应该是：
+My house is larger than your house.
+或者        My house is larger than yours.
+The temperature of this city is higher than the temperature of San Francisco.
+或者        The Temperature of this city is higher than that of San Francisco.
+The height of Himalayas is greater than the height of Mt. Fuji.
+或者        The height of Himalayas is greater than that of Mt. Fuji.
+请注意以下的例子，句子中没有than，但仍有比较级：
+Among all the teachers who have taught me, he is the best.
+This is the best movie I have ever seen.
+This food is the worst one which I have ever eaten.
+John is the stronger one.
+Do we have a better choice?
+Mary is the more diligent one.
+He is the older of the two.
+He is one of the best movie actors.
+This area is one of the hottest areas in the world.
+He is one of the fastest swimmers of America.
+This is a book which I like most.
+【练习六十四】
+改错：
+＊He is more old than I.
+＊She is younger than me.
+＊This university is more larger than that university.
+＊He is more older than my brother.
+＊His house is older than my.
+＊The size of this city is larger than San Francisco.
+＊She is taller than him.
+＊The height of this boy is greater than his brother.
+＊He is the most good student in my class.
+＊He is the more bad one.
+【练习六十五】
+将下列句子译成英文句子：
+你比他强壮。
+他的英文比我的好。
+他比他的弟弟更富有。
+他是世界上最富有的人。
+这支笔比你的贵得多。
+喜马拉雅山是世界上最高的山。
+亚马孙河是世界上最长的河。
+他比他的爸爸高。
+他是班上最好的学生。
+在我遇到的人中，他是最高的。
+【练习六十六】
+填充：
+1. He is          （old）than John.
+2. This problem is one of the          （difficult）problems that I have ever seen.
+3. This is one of the          （good）movies that I have ever seen.
+4. Do we have a          （good）choice?
+5. This place is          （hot）than San Francisco.
+6. He is          （famous）than his sister.
+7. She is getting          （bad）now.
+8. He is feeling          （well）now.
+9. He has          （much）money than his father.
+10. Mary is one of          （beautiful）student in her class.
+11. He is          （happy）than before.
+12. Peter is getting          （thin）.
+13. This summer is          （hot）than last summer.
+14. You have a          （bright）future now.
+15. He has          （many）students than I.
+16. I feel much          （well）now.
+17. Ｈe is          （careful）than you.
+18. Time is          （important）than money.
+
+第十四章 总复习的例子
+　　在这一章，我们将给很多简短的文章，每一段文章的后面，我们都会有详细的解释，相信这些解释将有助于读者对于文法的了解。
+（１）
+Dear Mother:
+I arrived at th Taipei Train Station around one o'clock in the afternoon yesterday. My friend, Mr. Chen, greeted me in the station. We took a taxi to go directly to the university and checked into the dormitory. The dormitory is a very old one. I will live with three other boys and I met two of them already. Both of them are from Taichung and they are both quite friendly.
+We went to the dormitory cafeteria for dinner. The food is not that good. Dear Mother, I miss you and especially the food you cooked for me.
+Your son
+这封信很简单，所叙述的事情不是用简单的现在式，就是简单的过去式，当然也有一次用了未来式。
+绝大多数的句子都用了简单的过去式，因为这些句子都是叙述过去所发生的事，用现在式的有以下几句：
+The dormitory is a very old one.
+Both of them are from Taichung.
+The food is not that good.
+I miss you and the food you cooked for me.
+为什么这几句话要用现在式呢？道理很简单，这几句话描写的是一些状态，而并非过去发生的事。
+〝The dormitory is a very old one.〞
+〝Both of them are from Taichung.〞
+〝The food is not that good.〞
+〝I miss you and the food you cooked for me.〞
+等四个句子都是目前存在的事实，所以要用现在式。
+现在我们不妨看一下冠词的情形，我们可以看到很多地方都用了the，如：
+the Taipei Train Station
+the afternoon
+the station
+the university
+the dormitory cafetervia
+the dormitory
+the food
+the food you cooked for me
+各位读者一定可以注意到在the后面的名词都有所指，举例来说，the university指那所作者要去念的大学，他的妈妈知道他所说的是那一所大学。The dormitory指那间他已搬进去住的宿舍。凡是有所指的名词前面，原则上都应该加the。
+哪里用了〝a〞呢？注意，我们用了两次
+a taxi
+a very old one
+读者应该不难看出为什么这里我们不能用the，而一定要用a。
+（２）
+Mary: "Hello, this is Mary. Who is calling?"
+John: "Hi, this is John. How are you?"
+Mary: "I am doing fine. In fact, I am studying for the final examination now."
+John: "Oh, I am sorry. When will the exam be over?"
+Mary: "This Friday."
+John: "Then, can we have dinner Friday evening?"
+Mary: "OK, where are we going to eat?"
+John: "How about the Chinese restaurant called Four Seasons?"
+Mary: "That is all right with me. When do we meet?"
+John: "How about six o'clock?"
+Mary: "That's it. See you Friday evening at 6 o'clock at the Four Seasons."
+这一篇短文主要的目的在于介绍所谓现在进行式。
+Who is calling.
+I am doing fine.
+I am studying for the final examination now.
+都是标准的现在进行式，事实上，也必须用现在进行式。
+（３）
+     I have been interested in music ever since I was a small child. When I was seven years old, my mother gave me a violin as a birthday present. I have been taking violin lessons ever since.
+     I am so much interested in music that I finally decided to go to music school. This was a hard decision for me. I consulted with my parents. Both of them encouraged me to go ahead.
+     Yesterday, I was accepted by one of the best music schools in Taiwan. I am really happy about this.
+这一段话中，我们开始用现在完成式，比方说第一句话就是
+I have been interested in music ever since I was a small child.
+为什么要用现在完成式呢？道理很简单，这句话里面有有〝ever since〞这个词，凡是有了这个词句，我们就一定要用现在完成式了。
+另外一句用了现在完成进行式的句子是：
+I have been taking violin lessons ever since.
+读者不妨去看看第四章，就知道为什么这里要用现在完成进行式了。凡是〝自从〞某某日开始，而就一直在做的事情，就应该用现在完成式，或者现在完成进行式。
+这一段文章里面，我们还用了被动语气。
+I was accepted by one of the best music schools in Taiwan.
+各位读者不妨注意，这被动语气的用法是很正当而且适宜的，如用主动这句话变成了
+One of the best music schools accepted me.
+这样反而并不太能表达原意。
+（４）
+     Before I got into college, I had been to the United States and lived there for one year. This is why I could speak English better than average students.
+     As I studied as a college student, Hitler was secretly preparing for the Second World War. The war erupted finally when I was a senior. I was forced to quit school and was drafted into the army. I luckily survived the war and came back to resume my studying after the war was over. Since I had gone to the war, I was more mature than most of the other students.     Even now, I can still remember my days as a college student as well as a soldier.
+这篇文章介绍了如何使用过去完成式，第一句话就用了过去完成式，因为有两件事，一件是〝进大学〞，另一件是〝去过美国〞，由于在进大学以前去美国，所以〝去美国〞就用了过去完成式。
+请注意第二段的第一句：
+     As I studied as a college student, Hitler was secretly preparing for the Second World War.
+这一次，我们用了过去进行式，因为有两件事，〝在学校念书〞是一件事，〝希特勒在准备发动第二次世界大战〞是另一件事，其中有一件可以用过去完成式。
+同理，在第二段话的最后一句话中，〝曾经去打过仗〞用了过去完成式。
+这段文章中，有一句话用了被动语气，读者不妨看这句话〝I was forced to quit school.〞，其实我们在这种情形之下，我们必须用被动语气，当然也可以用主动语气，不过那并不太自然。
+也请读者注意这段文章的最后一句话仍一定要用现在式。
+（５）
+     I have been interested in reading novels for a long time. Among all of the novels that I have read, I like detective novels the most. Among all detective novels, I especially like those written by Agatha Christe.
+     Last year, I started reading another kind of novels, namely science fictions. I found out that some science fiction writers are quite philosophical. Unfortunately, there are not too many of them.
+     I always have a dream that one day I will be good in writing novels. Do you think that my dreams may come true?
+这段文章中，我们介绍了动名词的用法，第一句话的reading就是动名词，除此以外，我们还有两处用了动名词：started reading和good in writing。
+读者也应该了解为什么第一句话要用现在完成进行式，在第二句话里面，当我们形容novels，我们也用了现在完成式。
+请读者注意第一段的最后一句话，those written by Agatha Christe。在这里，written是一个过去分词用作了形容词，形容novels，我们也可以说those which were written by Agatha Christe.
+顺便讲一下，Agatha Christe是一位非常著名的侦探小说作者。
+也请大家注意，我们只能说interested in reading，而不能说interesting in reading。
+（６）
+     Tomorrow, there will be a dancing party in our university. Since we are freshmen and most of us have never been to a large dancing party, we are naturally very much excited. I must say that I am not that excited. Although dancing is interesting, I often think that the music is too loud. Besides, as a bystander, I often find the way that the young people dance these days is so funny. When they dance, they often remind me of monkeys.
+     Well, I must admit that playing basketball is more interesting to me. But, unfortunately, I cannot play basketball tomorrow because the courts will be used for the dancing party.
+这一段话主要的目的是介绍现分词和过去分词用成形容词的做法。第一个现在分词是dancing，dancing 在这里形容party。
+我们在这里看到有些时候，我们应该用现在分词，有时要用过去分词。请看以下的句子：
+We are naturally very much excited.
+在这里，我们一定要用excited，绝对不能用
+＊We are naturally very exciting.
+下一句
+Although dancing is interesting,
+在这里，我们必须用interesting，而不能用interested。也就是说，我们不能说
+＊Although dancing is interested.
+（７）
+     We probably all believe that we should love others and forgive those who do bad things to us. Unfortunately it is often hard for us to practice what we believe in. For example, if someone really hurts us badly, we just do not know what we should do. Should we take some kind of action to hurt the person who hurt us, or should we forgive him?
+     The truth is that we may still seek justice. It is right if we want a criminal to go to jail for his crime. Yet, we should never have hatred in our hearts.
+　　这篇文章的目的在介绍〝子句〞的用法，请注意这篇文章内的很多子句，举例来说
+that we should love others and forgive those who do bad things.
+就是一个子句，这个子句是believe的受词，有趣的是，这个子句内部又有一个子句，那就是
+who do bad things to do.
+这个子句是形容those的。
+以下是这一段文章的全部子句：
+that we should love others and forgive those
+who do bad things to us
+what we believe in
+what we should do
+that we may still seek justice
+??
+
+??
+
+??
+
+??
+
+
+
+
+
+
